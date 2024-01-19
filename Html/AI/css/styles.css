@@ -1,0 +1,86 @@
+			/* 定义搜索框样式 */
+      .search-box {
+        position: relative;
+        display: inline-block;
+        margin: 20px;
+        width: 90%;
+      }
+      .search-box input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 30px;
+        background-color: #f2f2f2;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease-in-out;
+        font-size: 16px;
+        color: #333;
+      }
+      .search-box input[type="text"]:focus {
+        outline: none;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        background-color: #fff;
+        color: #333;
+      }
+      .search-box button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 10px 15px;
+        background-color: #f2f2f2;
+        border: none;
+        border-radius: 0px 30px 30px 0px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        cursor: pointer;
+        font-size: 16px;
+        color: #333;
+      }
+      .search-box button:hover {
+        background-color: #ddd;
+      }
+    
+    
+  
+      /* 定义按钮样式 */
+      .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #ffffff;
+        border: 2px solid black;
+        border-radius: 7px;
+        cursor: pointer;
+        margin-top: 8px;
+      }
+      /* 定义选中按钮样式 */
+      .btn-selected {
+        background-color: #ffffff;
+        
+      }
+  
+      /* 定义带竖线的标题样式 */
+      .title-with-line {
+        position: relative;
+        padding-left: 20px;
+        margin-bottom: 20px;
+        margin-top: 18px;
+      }
+  
+      .title-with-line::before {
+        content: "";
+        position: absolute;
+        top: 1;
+        left: 0;
+        width: 6px;
+        height: 100%;
+        background-color: green;
+        vertical-align: middle;
+      }
+  
+      .title-with-line h3 {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0;
+        padding-left: 10px;
+      }
+
+
