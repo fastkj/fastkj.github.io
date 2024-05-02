@@ -1,0 +1,3 @@
+var posts=["PC端教程/PC端clash/","PC端教程/v2rayn PC/","PC端教程/图床搭建安卓/","android/AIChat/","android/FakeLocation/","android/clashandroid/","android/GKD/","articles/HTML编辑器/","android/quickoo/","articles/Markdown语法/","articles/gkd/","articles/Midjourney AI/","articles/nodejs/","articles/clash安卓/","articles/v2rayn PC/","articles/永久免费域名/","articles/免费机场/","html-opne/HTML-AItool/","articles/流量卡/","html-opne/Markdown语法/","articles/节点更新/","谷歌/Vanced第三方安装器/","谷歌/谷歌地图/","谷歌/YouTubeVanced/","谷歌/谷歌浏览器/","winpc/ColorPicker/","winpc/PC端clash/","winpc/arc/","winpc/图床搭建安卓/","winpc/freedomain/","winpc/viggle/"];function toRandomPost(){
+    pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
+  };

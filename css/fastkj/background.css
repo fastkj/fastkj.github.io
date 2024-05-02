@@ -1,0 +1,17 @@
+/* 隐藏滚动条 */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(60 60 67 / 0%) transparent;
+}
+
+/* 顶部样式 下划线 */
+a.categoryButton:after {
+    top: 57px;
+    width: 1rem;
+    left: 21px;
+    height: 5px;
+    background: var(--anzhiyu-white);
+    content: "";
+    border-radius: 1px;
+    position: absolute;
+}

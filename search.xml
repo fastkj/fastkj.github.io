@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Arc浏览器 win 内测申请以及安装方式</title>
+      <link href="/winpc/arc/"/>
+      <url>/winpc/arc/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/983988981.jpg"></p><ul><li>Arc官网申请：<a href="https://arc.net/">点击链接</a></li><li>申请成功后邮箱会收到内测信息以及安装包</li><li>建议先到官网申请内测，直接下载没内测号也进不去。</li><li>官网提供的只有2KB<a href="https://pan.quark.cn/s/3cc4ac51eaf9">Arc浏览器Windows11安装包</a></li></ul><h3 id="1、安装过程中遇到的问题"><a href="#1、安装过程中遇到的问题" class="headerlink" title="1、安装过程中遇到的问题"></a>1、安装过程中遇到的问题</h3><ul><li>无法的开安装包或无法下载，退出代理工具，如果还是不行重启电脑。</li></ul><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/79877209.png"></p><ul><li>跟着网上的教程退出代理工具行不通，万能重启安装成功。</li></ul><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/986887983.png"></p><h3 id="2、关于登录遇到的问题"><a href="#2、关于登录遇到的问题" class="headerlink" title="2、关于登录遇到的问题"></a>2、关于登录遇到的问题</h3><p>有现成的教程就不截图了，可以跳转过去看看大概就是在“常规”里设置一下配置。</p><ul><li>修改代理设置<a href="https://www.bilibili.com/read/cv32904385/?spm_id_from=333.976.0.0">点击链接</a></li></ul><h3 id="3、点击注册"><a href="#3、点击注册" class="headerlink" title="3、点击注册"></a>3、点击注册</h3><p>确保你申请内测邮箱成功<br>注册-名字-邮箱-密码-确认密码<br>邮箱是你申请成功的邮箱<br>提示红字报错可能是网络原因 如果你的开了全局代理，关掉全局代理</p><h3 id="使用体验"><a href="#使用体验" class="headerlink" title="使用体验"></a>使用体验</h3><p>开发版好像也体验不出来什么，书签管理和搜索框集成在左边确实方便，软件响应和预加载比Chrome、edge稍微快一点，打开软件不会像edge会闪一下。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/8798773.png"><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/784379278.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Arc浏览器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Fake Location 免ROOT虚拟定位</title>
+      <link href="/android/FakeLocation/"/>
+      <url>/android/FakeLocation/</url>
+      
+        <content type="html"><![CDATA[<h3 id="简介："><a href="#简介：" class="headerlink" title="简介："></a>简介：</h3><p>Fake Location是一款专为Android平台设计的应用，旨在允许用户在不修改系统设置的情况下模拟地理位置。它为开发者、游戏玩家以及需要虚拟定位功能的用户提供了便利。以下是该应用的主要特点：</p><ol><li>ROOT环境运行：支持ROOT权限，提供高模拟成功率。也可以在非ROOT环境下运行，但对部分应用有效。</li><li>Android P&#x2F;Q兼容：适配较新的Android操作系统版本。</li><li>摇杆移动位置：支持使用摇杆方式移动位置，增加操作的灵活性。</li><li>动态调整位置移动方向：根据手机的朝向动态调整位置移动方向。</li><li>模拟多级位置移动速度：包括步行、跑步、骑车、驾车、飞机以及自定义速度。</li><li>基站模拟：自动搜索目标位置附近的基站，提升模拟的真实性。</li><li>路线模拟：可以设置移动路线，模拟连续的位置变化。</li><li>步频模拟：可以累计计步器步数，如微信运动步数、支付宝步数等。</li><li>WIFI模拟：模拟WIFI连接状态。</li><li>独立模拟：可以独立于其他应用进行位置模拟。</li><li>GPS信号模拟：模拟GPS信号。</li><li>反检测：具备反检测功能，减少被识别为虚拟定位的可能性。</li><li>隐藏ROOT：在ROOT模式下使用时，可以隐藏ROOT状态。</li><li>位置更新频率设置：根据应用场景调整位置更新频率，例如社交APP建议设置为100毫秒，部分游戏建议设置为1000毫秒。</li><li>位置快速切换：支持快速切换位置，方便快速返回之前的位置。</li></ol><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1714043995888.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1714044002546.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1714044009259.jpg"></th></tr></thead></table><ul><li>下载方式：<a href="https://pan.quark.cn/s/9731db4c6562">点击链接</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 模块 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 虚拟定位 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>节点更新 一键复制 快速导入</title>
+      <link href="/articles/%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0/"/>
+      <url>/articles/%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0/</url>
+      
+        <content type="html"><![CDATA[<h4 id="没有精力天天维护更新"><a href="#没有精力天天维护更新" class="headerlink" title="没有精力天天维护更新"></a>没有精力天天维护更新</h4><p>能力有限也恰不上这碗饭，顶多给小白一个体验过程</p><p>白嫖节点失效也正常 [注明：节点都是搬运的 可以选择不用或用付费的 不要各种阴阳]</p><p>更新以文章最新时间为准，不一定新的就快，人多了也会拥挤,多下几个切着用一般刷个 2K 没问题。</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/71013.jpg"><br>节点导入教程：<a href="https://www.fastkj.top/articles/clash%E5%AE%89%E5%8D%93/">Clash+V2rayng如何导入</a></p><p>代理工具下载：<a href="https://www.fastkj.top/android/clashandroid/">Clash App</a></p><h2 id="Clash-URL订阅源"><a href="#Clash-URL订阅源" class="headerlink" title="Clash URL订阅源"></a>Clash URL订阅源</h2><p>文件导入：<a href="https://pan.quark.cn/s/5eca25efb0cd">点击跳转</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://pan.quark.cn/s/5eca25efb0cd</span><br></pre></td></tr></table></figure><p>clash</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">https://raw.githubusercontent.com/adiwzx/freenode/main/adiclash.yml</span><br><span class="line">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</span><br></pre></td></tr></table></figure><p>v2r</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</span><br><span class="line">https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</span><br><span class="line">https://raw.githubusercontent.com/adiwzx/freenode/main/adifree.txt</span><br><span class="line">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt</span><br></pre></td></tr></table></figure><p>v2r</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">vmess://eyJhZGQiOiAia2t5eC55eWRzaWkuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODA4MCwgImlkIjogImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9</span><br><span class="line">vmess://eyJhZGQiOiAiMTA0LjIxLjIzLjIzMSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZmNkbi5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=</span><br><span class="line">vmess://eyJhZGQiOiAieWg1LmR0a3U0MS54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAiZmFudGFzdGljLWRvZS1iaWRzLWVuZGVkLnRyeWNsb3VkZmxhcmUuY29tIiwgImlkIjogIjgyY2I5M2EzLTY1YTktNGRhYy1hMmE3LWQ5OTdiNmMyNmQ2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICI4MmNiOTNhMy02NWE5LTRkYWMtYTJhNy1kOTk3YjZjMjZkNmEtdm0iLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9</span><br><span class="line">vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5XHU1MTY4XHU3NDAzQW55Y2FzdFx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzc4NDg4MjQtOTNiNy00Yjg5LWZmZDAtZTkxYWZmZjQwNmNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpoZXNoaXNjcC5jb20iLCAicGF0aCI6ICIvNzc4NDg4MjQiLCAidGxzIjogInRscyJ9</span><br><span class="line">trojan://68dc22fb-e7f3-4806-acd7-b4182d80981e@kr02.freeflyingcloud.xyz:21702?security=tls&amp;sni=kr02.freeflyingcloud.xyz#%E7%BE%8E%E5%9B%BD+V2CROSS.COM</span><br><span class="line">trojan://925ab8eb-bb02-421e-a0b9-66336d4cb375@ru01.freeflyingcloud.xyz:30002?allowInsecure=1&amp;sni=ru01.freeflyingcloud.xyz#%E4%BF%84%E7%BD%97%E6%96%AF+%E8%8E%AB%E6%96%AF%E7%A7%91JustHost</span><br><span class="line">vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjUwIiwgInYiOiAiMiIsICJwcyI6ICJcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=</span><br><span class="line">ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.208:8008#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40MC40OCIsICJwb3J0IjogIjg4ODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZC82NWRkNTAzLlRHLldhbmdDYWkyLldhbmdDYWlfODoxMDc2OTAiLCAiaG9zdCI6ICJ1ay5tb3NzLm5ldHdvcmsiLCAidGxzIjogIiJ9</span><br><span class="line">vmess://eyJhZGQiOiAiMjMuMTU0LjEzNi4yIiwgInYiOiAiMiIsICJwcyI6ICJcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1OTYzZlx1OTFjY1x1NGU5MSIsICJhZGQiOiAibjE3MDk0NTcyOTcuYWFpZ2VmbS5jbiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjRjYmFhNDE4LTk3NjItNDFkNC1iMTQ0LTgzNTkyMmQyZGViYSIsICJzbmkiOiAibjE3MDk0NTcyOTcuYWFpZ2VmbS5jbiIsICJob3N0IjogIm4xNzA5NDU3Mjk3LmFhaWdlZm0uY24iLCAicGF0aCI6ICIvIn0=</span><br><span class="line">vmess://eyJhZGQiOiAiY2ZjZG4zLnNhbmZlbmNkbjkuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA1MiwgImlkIjogIjUwZTcwMWM2LWE3ZjEtNDFmMC05MjU1LTI4ZTk1YzU3ZDQ5YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3dHl3d2NyempwNS55b2ZuaGtmYy54eXoiLCAicGF0aCI6ICIvdmlkZW8vOVRmVkV5a3UiLCAidGxzIjogIiJ9</span><br><span class="line">vmess://eyJhZGQiOiAiMTA0LjE5LjQwLjg0IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODg4MCwgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1ay5tb3NzLm5ldHdvcmsiLCAicGF0aCI6ICIvZC82NWRkNTAzLlRHLldhbmdDYWkyLldhbmdDYWlfODoxMDc2OTAiLCAidGxzIjogIiJ9</span><br><span class="line">trojan://3febb05ea76a940f@103.168.155.69:3306?security=tls&amp;sni=n2.gladns.com&amp;type=ws&amp;path=/gateway/connect#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM</span><br><span class="line">vmess://eyJhZGQiOiAic2hvcC1ibXcuZnIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJmcCI6ICJyYW5kb20iLCAiaG9zdCI6ICJuZXp1a28ueWFlbWlrby5jbG91ZG5zLm9yZyIsICJpZCI6ICI2MTVhY2U1Yy1mYmZmLTExZWUtOTBkNy01M2U4ZTNiM2M3NzEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZwbmphbnRpdC91YTMudnBuamFudGl0LmNvbSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAicmFuZ3U4eXIycWRqcDBrNzVkdmk4MnFmdXJpbmEueWFlbWlrby5jbG91ZG5zLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInBvcnQiOiAiMjA0MDEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCAic25pIjogIiIsICJob3N0IjogImRhdGEtdXMtdjEuc2h3amZrdy5jbiIsICJwYXRoIjogIi9kZWJpYW4ifQ==</span><br><span class="line">trojan://ecc532e2-3f8b-4a30-b176-78951fda6542@it01.freeflyingcloud.xyz:48102?allowInsecure=1&amp;sni=it01.freeflyingcloud.xyz#%E8%8B%B1%E5%9B%BD+V2CROSS.COM</span><br><span class="line">vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2IFYyQ1JPU1MuQ09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%E5%BE%B7%E5%9B%BD%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E8%90%A8%E5%B0%94%E8%8C%A8%E5%90%89%E7%89%B9+%E5%BE%B7%E5%9B%BD%E7%94%B5%E4%BF%A1</span><br><span class="line">ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.107:2376#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8</span><br><span class="line">trojan://AdeLxWAAjIPe@3.133.148.227:12575?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xMDQuMTgyIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiZjBmMDY3ZmUtOGU2ZC00ZDk1LTgxNmItNjAxMDM4ZmQ1ODc2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJmci5ncnBjLmdheSIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==</span><br><span class="line">ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.107:2375#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line">ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk</span><br><span class="line">trojan://huge123456@131.186.21.135:60954?security=tls&amp;sni=h.iveze.com&amp;type=tcp#美国+v2rayfree.eu.org</span><br><span class="line">trojan://l243cQ2T5CVh@54.245.12.173:17398?sni=appsvs.shop#美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心</span><br><span class="line">trojan://telegram-id-directvpn@18.197.182.188:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#德国+黑森州法兰克福Amazon数据中心</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RXJmT1FEZjNsT1haMjRESzlFY0FM@5.42.86.33:16991#%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2rayfree.eu.org</span><br><span class="line">trojan://dkCb8vhXc9GI@18.130.65.10:17408?sni=appsvs.shop#英国+伦敦Amazon数据中心</span><br><span class="line">vmess://eyJhZGQiOiAiMTcyLjY3LjE3Mi42NyIsICJhaWQiOiAwLCAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODA4MCwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInloNC5kdGt1NDEueHl6IiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiMDI4YzgxMzEtOWUzZS00ODM2LTk0YWMtZWE3ZjI0ZDRkMDVhIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJib290eS1wZW5zaW9ucy1zY2hlZHVsaW5nLWJsb2dnaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiMDI4YzgxMzEtOWUzZS00ODM2LTk0YWMtZWE3ZjI0ZDRkMDVhLXZtIiwgInRscyI6ICIifQ==</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMC4yNi40MCIsICJwb3J0IjogODA4MCwgImlkIjogIjgyY2I5M2EzLTY1YTktNGRhYy1hMmE3LWQ5OTdiNmMyNmQ2YSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiZmFudGFzdGljLWRvZS1iaWRzLWVuZGVkLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiODJjYjkzYTMtNjVhOS00ZGFjLWEyYTctZDk5N2I2YzI2ZDZhLXZtIiwgInRscyI6ICIifQ==</span><br><span class="line">trojan://yUGbZAv7LW35@34.217.86.31:17415?sni=appsvs.shop#美国+俄勒冈州波特兰Amazon数据中心</span><br><span class="line">vmess://eyJhZGQiOiAiMTA0LjE5LjQwLjU4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODg4MCwgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1ay5tb3NzLm5ldHdvcmsiLCAicGF0aCI6ICIvZC82NWRkNTAzLlRHLldhbmdDYWkyLldhbmdDYWlfODoxMDc2OTAiLCAidGxzIjogIiJ9</span><br><span class="line">trojan://telegram-id-directvpn@3.77.247.138:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#美国+Amazon+EC2服务器</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIHYycmF5ZnJlZS5ldS5vcmciLCAiYWRkIjogImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwgInNuaSI6ICJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwgInBhdGgiOiAiL2VhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOC12bSJ9</span><br><span class="line">vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIzLjE2Mi4yMDAuMjI3IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAiaG9zdCI6ICIiLCAidGxzIjogInRscyIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgdjJyYXlmcmVlLmV1Lm9yZyJ9</span><br><span class="line">trojan://pBmaAMoBqHGR@18.118.163.183:17400?sni=appsvs.shop#美国+麻省理工学院</span><br><span class="line">vmess://eyJhZGQiOiAiMjMuMTU0LjEzNi4yIiwgInYiOiAiMiIsICJwcyI6ICJcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgdjJyYXlmcmVlLmV1Lm9yZyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==</span><br><span class="line">vmess://eyJhZGQiOiAidXMyMTkubmV0ZmlseC5saXZlIiwgImFpZCI6IDAsICJob3N0IjogInVzMjE5Lm5ldGZpbHgubGl2ZSIsICJpZCI6ICIxZTY1ZWM2ZC05YTQyLTRjZDAtOGM1MS02MzAzMDk3MDEzNGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9</span><br><span class="line">vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgdjJyYXlmcmVlLmV1Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9</span><br><span class="line">trojan://telegram-id-privatevpns@54.72.213.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#爱尔兰+都柏林Amazon数据中心</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40MC45OSIsICJwb3J0IjogODg4MCwgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAidWsubW9zcy5uZXR3b3JrIiwgInBhdGgiOiAiL2QvNjVkZDUwMy5URy5XYW5nQ2FpMi5XYW5nQ2FpXzg6MTA3NjkwIiwgInRscyI6ICIifQ==</span><br><span class="line">vmess://eyJhZGQiOiAiMTA0LjIxLjE5LjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJjZG4udmRzLXNlcnZlci5pciIsICJpZCI6ICIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODg4MCwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span><br><span class="line">trojan://telegram-id-privatevpns@35.176.117.240:22222?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心</span><br><span class="line">trojan://184833a5-9dff-4e2b-bc03-c0b8f9ec157f@fr01.freeflyingcloud.xyz:30502?security=tls&amp;sni=fr01.freeflyingcloud.xyz#美国+v2rayfree.eu.org</span><br><span class="line">trojan://telegram-id-privatevpns@54.72.176.224:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#爱尔兰+都柏林Amazon数据中心</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40MC4yMjIiLCAicG9ydCI6IDg4ODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsICJob3N0IjogInVrLm1vc3MubmV0d29yayIsICJwYXRoIjogIi9kLzY1ZGQ1MDMuVEcuV2FuZ0NhaTIuV2FuZ0NhaV84OjEwNzY5MCJ9</span><br><span class="line">vmess://eyJhZGQiOiAiZmNkbi5mbGhhLnJ1IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA5NSwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==</span><br><span class="line">trojan://ISpGyFeSDr06@175.41.172.250:17418?sni=appsvs.shop#新加坡+Amazon亚太数据中心</span><br><span class="line">trojan://NtttpUsd92KX@57.180.26.205:17391?sni=appsvs.shop#法国+国际航空电讯集团公司(SITA)</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF%20%201</span><br><span class="line">vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgIDIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==</span><br><span class="line">vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgIDMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1NTE2Y1x1NTNmOENETlx1ODI4Mlx1NzBiOSA0IiwgImFkZCI6ICJ3d3cuZGFya3Jvb20ubG9sIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ3d3cuZGFya3Jvb20ubG9sIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=</span><br><span class="line">ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#%E6%B3%A2%E5%85%B0%20%205</span><br><span class="line">vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1NTE2Y1x1NTNmOENETlx1ODI4Mlx1NzBiOSA2IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span><br><span class="line">vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU3OWZiXHU1MmE4IDciLCAiYWRkIjogImRhdGEtdXMtdjEuc2h3amZrdy5jbiIsICJwb3J0IjogIjIwNDAxIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJkYXRhLXVzLXYxLnNod2pma3cuY24iLCAicGF0aCI6ICIvZGViaWFuIn0=</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI@service.ouluyun9803.com:20003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82%E7%A7%BB%E5%8A%A8%208</span><br><span class="line">vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1NTE2Y1x1NTNmOENETlx1ODI4Mlx1NzBiOSA5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span><br><span class="line">vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2ICAxMCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI@service.ouluyun9803.com:26667#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82%E7%A7%BB%E5%8A%A8%2011</span><br><span class="line">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI@service.ouluyun9803.com:20005#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82%E7%A7%BB%E5%8A%A8%2012</span><br><span class="line">vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmRGYXN0bHlcdTUxNjhcdTc0MDNBbnljYXN0XHU4MjgyXHU3MGI5IDEzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=</span><br><span class="line">vmess://eyJhZGQiOiAic2VydmVyMzIuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjA0NGJhOGVkLTcyODUtNDcyYS1iYzE0LWZiOTFkYzZiZTRjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAxNCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="节点导入报错以及常出现的问题："><a href="#节点导入报错以及常出现的问题：" class="headerlink" title="节点导入报错以及常出现的问题："></a>节点导入报错以及常出现的问题：</h3><p>URL导入报错；<br>尝试挂梯子导入或断开梯子导入，两种方式都报错可能已链接失效。</p><p>yaml文件导入报错：一般是被二次修改导致</p><p>PC端导入节点不跑网：可选系统代理+规则代理</p><h3 id="免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责"><a href="#免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责" class="headerlink" title="免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责"></a>免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> clash </tag>
+            
+            <tag> 节点导入 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AI Chat Android 解锁会员功能版</title>
+      <link href="/android/AIChat/"/>
+      <url>/android/AIChat/</url>
+      
+        <content type="html"><![CDATA[<p>AI Chat是一款多功能的AI人工智能聊天应用程序，它通过自然语言处理技术和复杂的算法，能够理解并以自然和人类般的方式回应用户的消息。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713171202639.png"></p><ul><li>友好交流：<br>ChatGPT提供了类似人类的交流体验。它的先进人工智能让你感觉仿佛在与一个真实的朋友对话。ChatGPT模拟了自然的人际交流，带来了非凡的聊天体验。无论你是想进行轻松的闲聊、深入的智力对话，还是需要帮助撰写文章，ChatGPT都能满足你的需求。现在就加入使用AI进行社交的未来！</li></ul><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713170334422.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713170346389.jpg"></th></tr></thead></table><ul><li><p>学习与创意：<br>ChatGPT不仅仅是用于聊天。它也是一个学习工具和创意源泉。从学习新语言到理解复杂的概念，再到探索新话题或产生创新想法，ChatGPT都是你理想的伙伴。无论是进行AI对话、AI短信还是智力挑战，ChatGPT都像是你口袋里的私人导师和头脑风暴的好伙伴</p></li><li><p>下载地址<a href="https://pan.quark.cn/s/19da92d9aff4">点击链接</a></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ChatGPT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>免费二级域名 无需备案、免费ssl证书、免费cdn、动态IP</title>
+      <link href="/winpc/freedomain/"/>
+      <url>/winpc/freedomain/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713005771586.png"></p><p>现在国内除了eu.org好像搜不到其他能免费注册永久二级域名渠道，有也是要绑卡的，于是去谷歌翻了一些论坛 找到了一个算是半永久的吧，申请即用 不像<a href="https://www.fastkj.top/articles/euorg/">eu.org</a>要等两个月，每年免费续快到期自己续一下就行。</p><p>一个邮箱能注册3个免费二级域名，如果你有无限邮箱……</p><h3 id="freedomain二级域名优势"><a href="#freedomain二级域名优势" class="headerlink" title="freedomain二级域名优势"></a>freedomain二级域名优势</h3><ul><li>低成本、无需备案、免费ssl证书、免费cdn、动态IP</li><li>有五个后缀可供选择<br>publicvm.com、run.place、linkpc.net、line.pm、work.gd</li></ul><h3 id="功能预览"><a href="#功能预览" class="headerlink" title="功能预览"></a>功能预览</h3><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713000283836.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713000283837.jpg"></th></tr></thead></table><h3 id="注册-freedomain-邮箱验证"><a href="#注册-freedomain-邮箱验证" class="headerlink" title="注册 freedomain 邮箱验证"></a>注册 <a href="https://freedomain.one/">freedomain</a> 邮箱验证</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712999914190.jpg"><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712999945579.jpg"></p><ul><li>选择域名后缀</li></ul><p>第一次申请域名时会需要验证一下邮箱</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712999935602.jpg"></p><ul><li>信息填写</li></ul><p>信息不像eu.org强制填写，但会跳转添加个人信息页面，不填返回即可。<br>如果你想添加可以去看这篇<a href="https://www.fastkj.top/articles/euorg/">eu.org</a></p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712999914194.jpg"></p><ul><li>提交申请</li></ul><p>申请完就可以用了，不太确定能不能用来搭建vps，有好的用途留个言。</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712999914193.jpg"><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713002728697.jpg"></p><p>其实挺早就申请了，今天在整理<a href="https://quick.fastkj.top/">Quick导航</a>分类的时候才想起来，当时也没收藏网页还好有历史记录，重新开了个号分享申请过程。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1713003215018.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 域名 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 免费二级域名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>viggle AI | 将图片人物与视频合成 </title>
+      <link href="/winpc/viggle/"/>
+      <url>/winpc/viggle/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712935815795.png"></p><p>使用 体验 记录 过程</p><p>Viggle平台的独特之处在于其出色的创造性和灵活性。借助JST-1技术，用户可以实现自定义的角色动作，使其与现有动画工具相比表现更加自然和真实。不再受限于预设的动作库，用户可以根据自己的创意和需求来塑造角色的每一个动作细节。</p><p>这种创新的视频生成平台将为游戏开发者、动画制作团队和创作者们带来巨大的益处。在游戏开发领域，Viggle的应用将使开发者能够创建更富有个性和交互性的角色动作，提升游戏的沉浸感和玩家体验。对于动画制作团队而言，Viggle的引入将简化动画制作流程，提高效率，并为他们带来更大的创作自由。虚拟现实（VR）和增强现实（AR）领域也将受益于Viggle技术，通过更真实、逼真的角色动作，进一步增强用户在虚拟环境中的交互体验。</p><h3 id="使用方式："><a href="#使用方式：" class="headerlink" title="使用方式："></a>使用方式：</h3><ul><li>viggle官网<a href="https://www.viggle.ai/">点击跳转</a></li></ul><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712936291.png" alt="图片1"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712936439.png" alt="图片2"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712936494.png" alt="图片3"></th></tr></thead><tbody><tr><td align="center">点击discord</td><td align="center">Viggle添加dc</td><td align="center">可以跳过</td></tr></tbody></table><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712937208.png"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712937289.png"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/clipboard-image-1712937314.png"></th></tr></thead><tbody><tr><td align="center">任意选频道</td><td align="center">输入斜杠</td><td align="center">上传图片视频</td></tr></tbody></table><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712938284.png"></p><p>人特别多生成贼慢，要看效果去群里看吧<a href="https://discord.com/invite/3CwskBMdmh">DC群</a>，等生成出来转群里。不熬夜了</p><p>Viggle的工作方式很简单：</p><ul><li>你可以使用<code>/mix</code>命令将角色图像混合到一个动作视频中。</li><li>使用<code>/animate</code>命令，你可以通过文本动作提示来为静态角色添加动画。</li><li>通过<code>/ideate</code>命令，你可以仅使用文本来构思一个视频。</li><li>最后，<code>/stylize</code>命令允许你用文本提示来为你的角色添加风格，并使其活动起来！</li></ul><p>Viggle还有一个娱乐奖励目的地，提供了丰富的顶级电视节目、电影、音乐等内容。你可以通过Viggle应用或Viggle.com上的Viggle奖励来访问这些内容。Viggle的会员可以使用积分或主要信用卡来租赁或购买视频内容，并拥有音乐内容²。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> AI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图片生成视频 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于新版clash代理工具</title>
+      <link href="/android/clashandroid/"/>
+      <url>/android/clashandroid/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712901171864.png"></p><p>Clash 是一个开源的网络代理工具，用于帮助用户在互联网上实现安全和自由的访问。它可以在您的计算机、手机或路由器上运行，并提供代理服务器以供您的网络流量通过。</p><p>Clash 支持多种代理协议，包括 Shadowsocks、VMess、Trojan、Socks5 等，这使得它非常灵活和适应不同的代理需求。您可以根据自己的偏好和需求选择合适的代理协议进行配置。</p><p>使用 Clash，您可以实现以下功能和优势：</p><ol><li><p>绕过网络封锁：Clash 可以帮助您绕过地理限制、网络封锁和审查，访问被限制或屏蔽的网站和服务。</p></li><li><p>隐私保护：通过使用代理服务器，Clash 可以帮助您隐藏真实的 IP 地址和网络活动，提高隐私保护。</p></li><li><p>加密通信：Clash 支持使用加密协议进行通信，例如 Shadowsocks 和 VMess，确保您的网络连接在传输过程中是安全的。</p></li><li><p>灵活的配置：Clash 提供了丰富的配置选项，您可以根据自己的需求和网络环境进行灵活的定制，包括代理协议、服务器选择、路由规则等。</p></li><li><p>跨平台支持：Clash 可以在多个平台上运行，包括 Windows、macOS、Linux、Android 和 iOS，这使得您可以在不同设备上享受代理服务。</p></li></ol><div class="btns circle grid5">            <a class="button no-text-decoration" href='https://wwd.lanzoul.com/ixgvy1utg03a' title='clsah 2.5.12'><img src='https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712902517239.png'>clsah 2.5.12</a><a class="button no-text-decoration" href='https://wwd.lanzoul.com/i38Qs1utfhqj' title='clsah 3.03'><img src='https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712902517239.png'>clsah 3.03</a><a class="button no-text-decoration" href='https://wwd.lanzoul.com/i2PCc1utfnwb' title='clsah Meta2.10.1'><img src='https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712902517240.png'>clsah Meta2.10.1</a><a class="button no-text-decoration" href='https://www.fastkj.top/articles/clash%E5%AE%89%E5%8D%93/' title='节点导入方式'><img src='https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712784620412.png'>节点导入方式</a>          </div><ul><li><p>虽然PC端的clash作者删库了,但是不影响安卓版，作者不是同一个人。</p></li><li><p>内网点击上面版本按钮下载，失效记得群里@补链接。</p></li><li><p>本来想留个GitHub仓库发现Kr328的库也删了，一直在用<strong>2.5.12</strong>因为小米支持快捷键版本也是开源</p></li><li><p>截止四月Meta目前最高版本只有<strong>2.10</strong>其他版本都是一些机场魔改的</p></li><li><p>Meta 开源仓库 <a href="https://github.com/xuhaoyang/ClashForAndroid">Clash Meta</a></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 代理工具 </category>
+          
+          <category> 安卓 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> clash </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Color Picker PC端 桌面取色工具</title>
+      <link href="/winpc/ColorPicker/"/>
+      <url>/winpc/ColorPicker/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712837464492.png"><br>最近做设计用的挺多的一款PC端取色工具，不管是排版还是功能都很简洁。</p><ul><li>自定义颜色值类型 HEX、HSL、RBB、CMYK、HWB</li></ul><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712838105523.jpg"></p><p>官方介绍：</p><ul><li>一键取色并复制到剪贴板</li><li>保留历史取色记录</li><li>自定义取色快捷键（默认：F2）</li><li>颜色值去重</li><li>历史记录：左键单击显示颜色值，左键双击复制颜色值到剪贴板，右键单击删除颜色<br>可隐藏界面取色</li><li>软件安装包小 3.74MB 占用内存少</li><li>默认支持win11</li></ul><p>夸克网盘：<a href="https://pan.quark.cn/s/c1d2091f76dc">下载链接</a><br>123 网盘：<a href="https://www.123pan.com/s/DY5A-QHQsd.html">下载链接</a>  提取码：Yu4t<br>GitHub地址：<a href="https://github.com/Hunlongyu/color-picker/releases/">点击链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 取色 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三方油管3.0插件 YouTube Vanced microG 服务</title>
+      <link href="/%E8%B0%B7%E6%AD%8C/YouTubeVanced/"/>
+      <url>/%E8%B0%B7%E6%AD%8C/YouTubeVanced/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712826479095.png"><br>第三方YouTube Vanced 是一个非官方的 YouTube 客户端，它提供了一系列额外的功能和改进的用户体验。Vanced 的目标是为用户提供更多的控制权和个性化选项，以及去除一些官方 YouTube 应用中的限制和广告。</p><ul><li><p>广告拦截：Vanced 可以阻止在视频播放期间和应用程序界面中显示的广告。这使用户能够无干扰地观看视频内容。</p></li><li><p>背景播放：Vanced 允许用户将视频切换到后台，同时继续播放音频。这对于用户想要仅听音频而无需保持应用程序打开的情况非常有用。</p></li><li><p>PiP 模式：Vanced 支持画中画（Picture-in-Picture）模式，使用户可以在观看视频的同时继续浏览其他应用程序。</p></li><li><p>主题和界面定制：Vanced 提供了多种主题选项和界面定制功能，使用户能够根据自己的喜好自定义应用程序的外观和触感。</p></li><li><p>自动重复和连续播放：Vanced 允许用户自动重复单个视频或连续播放整个播放列表，提供更加便捷的观看体验。</p></li></ul><p>第三方YouTube Vanced 是一个非官方的YouTube客户端，提供了广告拦截、背景播放、PiP模式、主题和界面定制等功能，旨在为用户提供更多的控制权和个性化选项。</p><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712824670312.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712824670311.jpg"></th></tr></thead></table><p>Vanced microG 是一个用于支持 Vanced 应用程序的开源项目。Vanced 是一个非官方的 YouTube 客户端，提供了一些额外的功能和改进的用户体验。然而，由于 Vanced 不是官方应用程序，它需要一个称为 microG 的服务来模拟 Google Play 服务的功能。</p><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712824543511.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712825291013.png"></th></tr></thead></table><p>Vanced microG 提供了一种在没有官方 Google Play 服务的情况下运行 Vanced 应用程序的解决方案。它通过模拟 Google Play 服务的 API 调用和功能来填补 Vanced 和 Google Play 服务之间的差距。这使得 Vanced 能够正常使用一些依赖于 Google Play 服务的功能，例如登录 Google 帐户、接收推送通知和使用 YouTube 的一些高级功能。<br>夸克网盘：<a href="https://pan.quark.cn/s/d1ef364856ea">下载链接</a><br>123 网盘：<a href="https://www.123pan.com/s/DY5A-yhQsd.html">下载链接</a> 提取码：LevL</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> YouTube </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>白嫖免费机场 —— clash v2rayng Surfboard 订阅源</title>
+      <link href="/articles/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA/"/>
+      <url>/articles/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/1000205605_origin_IMG_20231020_161236.png"></p><h3 id="简单声明"><a href="#简单声明" class="headerlink" title="简单声明"></a>简单声明</h3><h4 id="免费和付费区于节点速率，数据都会经过运营商的服务器，建议不要碰二级域名或不知名的小机场，跑路不说数据也不安全，如果经常挂代理建议数据丢给大数据池也不要丢给一些小平台特别是国内的"><a href="#免费和付费区于节点速率，数据都会经过运营商的服务器，建议不要碰二级域名或不知名的小机场，跑路不说数据也不安全，如果经常挂代理建议数据丢给大数据池也不要丢给一些小平台特别是国内的" class="headerlink" title="免费和付费区于节点速率，数据都会经过运营商的服务器，建议不要碰二级域名或不知名的小机场，跑路不说数据也不安全，如果经常挂代理建议数据丢给大数据池也不要丢给一些小平台特别是国内的"></a>免费和付费区于节点速率，数据都会经过运营商的服务器，建议不要碰二级域名或不知名的小机场，跑路不说数据也不安全，如果经常挂代理建议数据丢给大数据池也不要丢给一些小平台特别是国内的</h4><p>利弊已说明 ——- 不做任何推荐以下仅自用 备份 </p><p>小黑子 每月50g 稳定<a href="ikuuu.pw">https://ikuuu.pw/</a><br>无觅云 每月30g 稳定<a href="https://www.wumiyun.cc/#/register?code=RnBjlJid">https://www.wumiyun.cc/</a><br>火星互聯 公益套餐100GB <a href="https://console.marsix.net/#/register?code=PORNnvtW">https://console.marsix.net/</a><br>（火星互聯 容易失效需定期导入订阅源）<br>白嫖机场 免费60g 稳定<a href="https://yes.白嫖机场.com/#/register?code=oyIY6wMI">https://yes.白嫖机场.com/</a><br>silvervpn 免费20g 一般<a href="https://silvervpn.xyz/#/register?code=1fWr6v26">https://silvervpn.xyz/</a><br>Bottom 免费100g 低速<a href="https://user.biqibao.site/#/register?code=E4AIIQBd">https://user.biqibao.site</a></p><p>有些可能要代理才能打开，订阅源导入代理工具即可 如图<br>安卓代理工具<a href="/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/clash%E5%AE%89%E5%8D%93/">clash</a><br>导入订阅方式：<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/hdjhjhhieklkc.png"></p><h3 id="免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责"><a href="#免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责" class="headerlink" title="免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责"></a>免责声明：订阅节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机场 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GKD 跳过应用启动广告</title>
+      <link href="/android/GKD/"/>
+      <url>/android/GKD/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712521009431.png"></p><h3 id="GKD-跳过应用启动广告"><a href="#GKD-跳过应用启动广告" class="headerlink" title="GKD 跳过应用启动广告"></a>GKD 跳过应用启动广告</h3><p>GKD 是一款开源的无障碍自定义点击屏幕应用，它的主要功能是帮助用户跳过Android设备上的开屏广告。这款应用的出现，让我们在使用手机时不再被烦人的广告打扰。</p><h4 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h4><p>GKD 能够在你打开APP或者使用浏览器时，自动去除启动的广告，让你的使用体验更加流畅。</p><h4 id="特色亮点"><a href="#特色亮点" class="headerlink" title="特色亮点"></a>特色亮点</h4><p>免费：GKD 是完全免费的应用，没有任何隐藏的收费。<br>稳定：GKD 运行非常稳定，无需反复设置无障碍权限。<br>安全：GKD 不需要联网，从源头上保护了用户的隐私。<br>快速：GKD 能够在瞬间跳过大部分广告。<br>节能：每跳过一次广告，GKD 都能帮你节省2~3秒的电量。对于电量消耗快的手机，GKD 就是一个不错的选择。</p><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712617403007.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712617363774.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712617363775.jpg"></th></tr></thead></table><ul><li><a href="https://github.com/gkd-kit/selector">高级选择器</a></li><li><a href="https://github.com/gkd-kit/subscription">订阅规则</a></li><li><a href="https://github.com/gkd-kit/inspect">快照审查</a><br>软件不携带任何规则，官方也不提供任何规则, 需要自行添加本地规则，或者通过订阅规则的方式获取规则。</li></ul><p>没有梯子可在网盘下载：<a href="https://pan.quark.cn/s/d481741f7fa4">GKD+规则</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安卓 </category>
+          
+          <category> 应用 </category>
+          
+          <category> 开源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 去广告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/articles/Markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/articles/Markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Mark-down语法"><a href="#Mark-down语法" class="headerlink" title="Mark down语法"></a>Mark down语法</h2><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><h3 id="链接跳转"><a href="#链接跳转" class="headerlink" title="链接跳转"></a>链接跳转</h3><ul><li>文字<a href="%E9%93%BE%E6%8E%A5">文字</a></li><li></li><li></li></ul><h3 id="图片插入"><a href="#图片插入" class="headerlink" title="图片插入"></a>图片插入</h3><p>双图</p><table><thead><tr><th align="center"></th><th align="center"></th></tr></thead></table><p>三图</p><table><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead></table><p>四图</p><table><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Medcapital</title>
+      <link href="/html-opne/Markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/html-opne/Markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/MedCapital%20branding.jpg"><br>MedCapital Management 一家投资基金管理公司，主要在西班牙的住宅房地产市场运作。他们开发了长期价值活动管理策略，旨在解锁并最大化其投资组合中的房地产资产的市场价值。他们的投资策略遵循针对具有增值潜力的房地产资产（尤其是复杂的资产）的价值投资方法。</p><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><h3 id="链接跳转"><a href="#链接跳转" class="headerlink" title="链接跳转"></a>链接跳转</h3><ul><li>文字<a href="%E9%93%BE%E6%8E%A5">文字</a></li><li></li><li></li></ul><h3 id="图片插入"><a href="#图片插入" class="headerlink" title="图片插入"></a>图片插入</h3><p>双图</p><table><thead><tr><th align="center"></th><th align="center"></th></tr></thead></table><p>三图</p><table><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead></table><p>四图</p><table><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Quick 起始页</title>
+      <link href="/android/quickoo/"/>
+      <url>/android/quickoo/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Quick网页版"><a href="#Quick网页版" class="headerlink" title="Quick网页版"></a>Quick网页版</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712520377638.png"><br>一个网页，搜罗全球！设计、影视、音乐、资讯、论坛、资源、文档分析、天气、地图、购物、出行、大语言模型、查询和更多领域！一站满足需求！省时高效！<br>目前在整理测试阶段，并不是最终效果.<br>网址：<a href="https://quick.fastkj.top/">https://quick.fastkj.top/</a></p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/6989781228.png"><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/6969886031245.png"><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/6870979831257.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导航栏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GKD 去除启动广告</title>
+      <link href="/articles/gkd/"/>
+      <url>/articles/gkd/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 安卓 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Git-nodejs 安装环境</title>
+      <link href="/articles/nodejs/"/>
+      <url>/articles/nodejs/</url>
+      
+        <content type="html"><![CDATA[<h3 id="记录一下"><a href="#记录一下" class="headerlink" title="记录一下"></a>记录一下</h3><p>因为受众不在这,只是简单记录一下遇到的问题<br>由于运营着几个博客，导致每次出点什么问题就想重装，每次报红都要去搜解决办法，干脆全卸了尝试自己解决，如果刚好路过用到，建议跟着整篇重装，每条命令都注释了。</p><h3 id="过程中有几个重点可以提前记一下"><a href="#过程中有几个重点可以提前记一下" class="headerlink" title="过程中有几个重点可以提前记一下"></a>过程中有几个重点可以提前记一下</h3><h3 id="关于权限："><a href="#关于权限：" class="headerlink" title="关于权限："></a>关于权限：</h3><p>用vscode编辑 需要给vscode已管理员身份运行<br>用文件目录Git Bash需要给整个文件已管理员身份运行<br>Node.sj和Git的安装目录也要给已管理员身份运行<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/7661231.png"></p><h3 id="关于网络："><a href="#关于网络：" class="headerlink" title="关于网络："></a>关于网络：</h3><p>全程科学上网的话用npm<br>国内用镜像cnpm</p><h3 id="1、安装nodejs和git"><a href="#1、安装nodejs和git" class="headerlink" title="1、安装nodejs和git"></a>1、安装nodejs和git</h3><p>根据个人安装习惯，我是放在D盘 安装最新版 安装过程只改路径 然后一路Next默认安装即可。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Node.sj下载地址：https://nodejs.org/</span><br><span class="line">Git下载地址：https://git-scm.com/</span><br></pre></td></tr></table></figure><p>　</p><h4 id="添加nodejs-环境变量"><a href="#添加nodejs-环境变量" class="headerlink" title="添加nodejs 环境变量"></a>添加nodejs 环境变量</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">在node根目录 新建文件夹</span><br><span class="line">node_global</span><br><span class="line">node_cache</span><br></pre></td></tr></table></figure><h4 id="用户变量："><a href="#用户变量：" class="headerlink" title="用户变量："></a>用户变量：</h4><p>win键-搜索-查看系统高级设置-环境变量<br>用户变量&#x2F;编辑Path 添加路径 </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">D:\你的路径\nodejs\node_global\</span><br><span class="line">D:\你的路径\nodejs\node_cache\</span><br></pre></td></tr></table></figure><h4 id="系统变量："><a href="#系统变量：" class="headerlink" title="系统变量："></a>系统变量：</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">NODE_HOME</span><br><span class="line">D:\你的路径\nodejs</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">NODE_PATH</span><br><span class="line">D:\你的路径\nodejs\node_global\node_modules</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Vue CLI</span><br><span class="line">D:\你的路径\nodejs\node_global\node_modules</span><br></pre></td></tr></table></figure><h4 id="2、全局安装环境命令"><a href="#2、全局安装环境命令" class="headerlink" title="2、全局安装环境命令"></a>2、全局安装环境命令</h4><p>win+R 输入cmd 使用系统终端全局安装</p><p>注：如果在vscode直接输入可能会无法安装到nodejs目录，导致无法全局或其他命令报红，建议跟着走全局。</p><p>环境根据自己需求安装，如果只是搭建博客安装npm和hexo即可。前三条加一个hexo依赖包</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g npm //全局安装npm</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli //全局安装hexo</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install //安装Hexo所需的依赖包</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g pnpm //全局安装pnpm</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g @vue/cli //全局安装vue</span><br></pre></td></tr></table></figure><h4 id="内网镜像源"><a href="#内网镜像源" class="headerlink" title="内网镜像源"></a>内网镜像源</h4><p>最新淘宝镜像源 2024</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm //全局安装cnpm</span><br><span class="line">npm config set registry https://registry.npmmirror.com //淘宝镜像源</span><br><span class="line">cnpm install //Hexo所需的依赖包</span><br></pre></td></tr></table></figure><h4 id="检查是否安装命令"><a href="#检查是否安装命令" class="headerlink" title="检查是否安装命令"></a>检查是否安装命令</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">node -v //检查node版本</span><br><span class="line">npm -v //检查npm版本</span><br><span class="line">pnpm -v //检查pnpm版本</span><br><span class="line">hexo -v //检查hexo版本</span><br><span class="line">vue --version //检查vue版本</span><br></pre></td></tr></table></figure><h3 id="3、初始化Hexo项目"><a href="#3、初始化Hexo项目" class="headerlink" title="3、初始化Hexo项目"></a>3、初始化Hexo项目</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init //初始化</span><br></pre></td></tr></table></figure><h4 id="ssh密钥"><a href="#ssh密钥" class="headerlink" title="ssh密钥"></a>ssh密钥</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ssh</span><br><span class="line">ssh-keygen -t rsa -C &quot;你的邮箱&quot;</span><br><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><h4 id="主题可以到Hexo主题里挑"><a href="#主题可以到Hexo主题里挑" class="headerlink" title="主题可以到Hexo主题里挑"></a>主题可以到<a href="https://hexo.io/themes/">Hexo主题</a>里挑</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly //butterfly主题</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s //本地预览</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g //生成静态文件</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d //上传部署博客</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo cl //清除缓存文件</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo g &amp;&amp; hexo d  #&amp;&amp;分割 多条命令同时执行</span><br><span class="line"></span><br></pre></td></tr></table></figure><h4 id="config-yml-配置修改"><a href="#config-yml-配置修改" class="headerlink" title="_config.yml　配置修改"></a>_config.yml　配置修改</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">permalink: :title/ # 指定文章的永久链接结构</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:fastkj/fastkj.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><h3 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h3><h4 id="主要是记录安装环境，下面是些个人其他笔记"><a href="#主要是记录安装环境，下面是些个人其他笔记" class="headerlink" title="主要是记录安装环境，下面是些个人其他笔记"></a>主要是记录安装环境，下面是些个人其他笔记</h4><h4 id="pnpm"><a href="#pnpm" class="headerlink" title="pnpm"></a>pnpm</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">pnpm install //安装依赖环境</span><br><span class="line">pnpm dev //运行pnpm</span><br><span class="line">npm install -g pnpm //全局安装</span><br><span class="line">npm i -g pnpm //相同</span><br></pre></td></tr></table></figure><h4 id="Vue"><a href="#Vue" class="headerlink" title="Vue"></a>Vue</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">Vue全局脚手架</span><br><span class="line">npm config set registry http://registry.npmjs.org //默认源</span><br><span class="line">npm install -g @vue/cli //安装</span><br><span class="line">npm install -g vue-router //安装vue-router</span><br><span class="line">npm cache clean --force //清除缓存 整个都删除慎用</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">vue create vue-demo</span><br><span class="line">cd vue-demo</span><br><span class="line">npm run serve</span><br><span class="line"></span><br><span class="line">npm install vue -g</span><br><span class="line">npm install @vue/cll -g</span><br><span class="line">npm install -g @vue/cli</span><br></pre></td></tr></table></figure><h4 id="GitHub-文件上传"><a href="#GitHub-文件上传" class="headerlink" title="GitHub 文件上传"></a>GitHub 文件上传</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;first commit&quot;</span><br><span class="line">git branch -M main</span><br><span class="line">git remote add origin +仓库链接</span><br><span class="line">git push -u origin main</span><br></pre></td></tr></table></figure><h4 id="再次上传"><a href="#再次上传" class="headerlink" title="再次上传"></a>再次上传</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;Updated several files&quot; //检查更新文件</span><br><span class="line">git push origin main //上传</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm dev //运行pnpm</span><br></pre></td></tr></table></figure><h5 id="hexo-搜索"><a href="#hexo-搜索" class="headerlink" title="hexo 搜索"></a>hexo 搜索</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">plugins:</span><br><span class="line">  - hexo-algoliasearch</span><br><span class="line"></span><br><span class="line">algolia: #搜索</span><br><span class="line">  appId: &quot;KZQBGCYZ9V&quot;</span><br><span class="line">  apiKey: &quot;603c65ab859a7eeb783930d99cae74b1&quot;</span><br><span class="line">  adminApiKey: &quot;bb438b1b18bc05ca865cde799c85be71&quot;</span><br><span class="line">  chunkSize: 5000</span><br><span class="line">  indexName: &quot;hexo&quot;</span><br><span class="line">  fields:</span><br><span class="line">    - content:strip:truncate,0,500</span><br><span class="line">    - excerpt:strip</span><br><span class="line">    - gallery</span><br><span class="line">    - permalink</span><br><span class="line">    - photos</span><br><span class="line">    - slug</span><br><span class="line">    - tags</span><br><span class="line">    - title</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> nodejs </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新版v2rayn PC安装 导入订阅教程</title>
+      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/v2rayn%20PC/"/>
+      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/v2rayn%20PC/</url>
+      
+        <content type="html"><![CDATA[<p><img src="http://picodemo.fastkj.top/picture/cover/70908899876.png"></p><h3 id="Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具"><a href="#Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具" class="headerlink" title="Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具"></a>Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具</h3><p>关于导入写的算比较详细了包括 下载 安装 导入订阅 订阅刷新 Vmess类型节点添加<br>在开头说一下估计都没耐心看完整篇 安装完网速不跑建议看最后一张图</p><h3 id="1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases"><a href="#1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases" class="headerlink" title="1、v2rayN PC端仓库；https://github.com/2dust/v2rayN/releases"></a>1、v2rayN PC端仓库；<a href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases</a></h3><p>根据自己电脑系统下载相对应版本<br><img src="http://picodemo.fastkj.top/picture/img/UJKJKkhjckjzkj.png"><img src="http://picodemo.fastkj.top/picture/img/5MZXEO.png"></p><h3 id="2、解压下载好的zip安装包并安装"><a href="#2、解压下载好的zip安装包并安装" class="headerlink" title="2、解压下载好的zip安装包并安装"></a>2、解压下载好的zip安装包并安装</h3><p><img src="http://picodemo.fastkj.top/picture/img/A1F%60JW8.png"><img src="http://picodemo.fastkj.top/picture/img/K65M%7B%5DT.png"></p><h3 id="3、关于节点导入"><a href="#3、关于节点导入" class="headerlink" title="3、关于节点导入:"></a>3、关于节点导入:</h3><p>如：Vmess的节点复制粘贴添加即可<br><img src="http://picodemo.fastkj.top/picture/img/djhawioqjbbc.png"><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(5).png"></p><h3 id="订阅源导入"><a href="#订阅源导入" class="headerlink" title="订阅源导入:"></a>订阅源导入:</h3><p><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(1).png"><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(4).png"></p><h3 id="更新添加订阅源"><a href="#更新添加订阅源" class="headerlink" title="更新添加订阅源:"></a>更新添加订阅源:</h3><p><img src="http://picodemo.fastkj.top/picture/img/jkdjfjkjdkv.png"><img src="http://picodemo.fastkj.top/picture/img/vskjhkjbvbs.png"></p><h3 id="测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）"><a href="#测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）" class="headerlink" title="测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）"></a>测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）<img src="http://picodemo.fastkj.top/picture/img/image.png"></h3><h3 id="右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"><a href="#右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）" class="headerlink" title="右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"></a>右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）</h3><p><img src="http://picodemo.fastkj.top/picture/img/hdhhmage.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 代理工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新版v2rayn PC安装 导入订阅教程</title>
+      <link href="/articles/v2rayn%20PC/"/>
+      <url>/articles/v2rayn%20PC/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具"><a href="#Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具" class="headerlink" title="Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具"></a>Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具</h3><p>关于导入写的算比较详细了包括 下载 安装 导入订阅 订阅刷新 Vmess类型节点添加<br>在开头说一下估计都没耐心看完整篇 安装完网速不跑建议看最后一张图</p><h3 id="1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases"><a href="#1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases" class="headerlink" title="1、v2rayN PC端仓库；https://github.com/2dust/v2rayN/releases"></a>1、v2rayN PC端仓库；<a href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases</a></h3><p>根据自己电脑系统下载相对应版本<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/UJKJKkhjckjzkj.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/5MZXEO.png"></p><h3 id="2、解压下载好的zip安装包并安装"><a href="#2、解压下载好的zip安装包并安装" class="headerlink" title="2、解压下载好的zip安装包并安装"></a>2、解压下载好的zip安装包并安装</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/A1F%60JW8.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/K65M%7B%5DT.png"></p><h3 id="3、关于节点导入"><a href="#3、关于节点导入" class="headerlink" title="3、关于节点导入:"></a>3、关于节点导入:</h3><p>如：Vmess的节点复制粘贴添加即可<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/djhawioqjbbc.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(5).png"></p><h3 id="订阅源导入"><a href="#订阅源导入" class="headerlink" title="订阅源导入:"></a>订阅源导入:</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(1).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(4).png"></p><h3 id="更新添加订阅源"><a href="#更新添加订阅源" class="headerlink" title="更新添加订阅源:"></a>更新添加订阅源:</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/jkdjfjkjdkv.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/vskjhkjbvbs.png"></p><h3 id="测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）"><a href="#测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）" class="headerlink" title="测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）"></a>测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）<img src="https://warm-dieffenbachia-f521a5.netlify.app/img/image.png"></h3><h3 id="右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"><a href="#右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）" class="headerlink" title="右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"></a>右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/hdhhmage.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 代理工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTML5 —— 安卓端 编辑器合集</title>
+      <link href="/articles/HTML%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+      <url>/articles/HTML%E7%BC%96%E8%BE%91%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs21171916.png"></p><h3 id="分享几款轻便的代码编辑器，根据个人使用习惯排序，倒序方便后期更新添加。"><a href="#分享几款轻便的代码编辑器，根据个人使用习惯排序，倒序方便后期更新添加。" class="headerlink" title="分享几款轻便的代码编辑器，根据个人使用习惯排序，倒序方便后期更新添加。"></a>分享几款轻便的代码编辑器，根据个人使用习惯排序，倒序方便后期更新添加。</h3><p>6、HTML Editor是一款基于Web的代码编辑器，专门用于编辑HTML、CSS和JavaScript代码。它提供了许多有用的功能，例如代码补全、语法高亮、自动缩进、代码折叠等等。用户可以使用HTML Editor来创建和编辑网页，以及实现各种交互效果和动画效果。</p><p>HTML Editor还支持实时预览功能，在编辑代码的同时可以即时查看网页的效果。它还支持多个标签页和分屏视图，让用户可以同时编辑多个文件。此外，HTML Editor还可以与GitHub和Google Drive等云存储服务集成，让用户可以轻松地将他们的代码保存到云端中。<br>HTML Editor还提供了一些高级功能，例如代码片段和自定义快捷键等。用户可以创建自己的代码片段，以便在需要时快速插入常用代码块。同时，用户还可以自定义快捷键，以提高他们的编辑效率。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs21171841.png"></p><p>5、QuickEdit是一款Android平台上的代码编辑器，支持多种编程语言，包括Java、C&#x2F;C++、Python、HTML、CSS、JavaScript等等。它提供了许多有用的功能，例如代码补全、语法高亮、自动缩进、代码折叠、查找替换等等。<br>QuickEdit还支持多个标签页和分屏视图，让用户可以同时编辑多个文件。它还可以与Google Drive和Dropbox等云存储服务集成，让用户可以轻松地将他们的代码保存到云端中。此外，QuickEdit还支持FTP和SFTP协议，可以让用户直接在应用中编辑远程服务器上的文件。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/fsf21171829.png"></p><p>4、Code Editor Premium是一款Android平台上的代码编辑器，支持多种编程语言，包括Java、C&#x2F;C++、Python、HTML、CSS、JavaScript等等。它提供了许多有用的功能，例如代码补全、语法高亮、自动缩进、代码折叠、查找替换等等。<br>Code Editor Premium还提供了一些额外的功能，例如代码分析、代码格式化和代码比较等。它还支持Git集成，让用户可以在应用中管理和版本控制他们的代码。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs1171849.png"></p><p>3、Acode是一款Android平台上的代码编辑器，支持多种编程语言，包括Java、C&#x2F;C++、Python、HTML、CSS、JavaScript等等。它提供了许多有用的功能，例如代码补全、语法高亮、自动缩进、代码折叠、查找替换等等。<br>Acode还支持多个标签页和分屏视图，让用户可以同时编辑多个文件。它还可以与Google Drive和Dropbox等云存储服务集成，让用户可以轻松地将他们的代码保存到云端中。此外，Acode还支持FTP和SFTP协议，可以让用户直接在应用中编辑远程服务器上的文件。<br>Acode还提供了一些高级功能，例如代码片段和自定义快捷键等。用户可以创建自己的代码片段，以便在需要时快速插入常用代码块。同时，用户还可以自定义快捷键，以提高他们的编辑效率。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs0621171858.png"></p><p>2、Dcoder是一款移动端的编程编辑器，可以在Android和iOS设备上使用。它支持多种编程语言，包括C、C++、Java、Python、Kotlin、Ruby等等。Dcoder使用简单，适合初学者使用，同时也提供一些高级功能，例如代码补全、语法高亮和错误检查等。<br>Dcoder还支持与其他用户进行交流和分享。用户可以在Dcoder社区中分享他们的代码和想法，并从其他用户的代码中学习。此外，Dcoder还提供了一个挑战平台，用户可以在其中参加编程挑战，并与其他用户竞争。<br>Dcoder编辑器也提供了一些高级功能，例如调试器和Git集成。用户可以使用Dcoder中的调试器来诊断和解决代码中的错误，同时还可以使用Git集成来管理和版本控制他们的代码。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs0621172059.png"></p><p>1、TrebEdit是一款基于Web的代码编辑器，支持多种编程语言，包括HTML、CSS、JavaScript、PHP、Python、Ruby等等。它可以在任何现代浏览器中运行，并且不需要安装任何软件或插件。<br>TrebEdit提供了许多有用的功能，例如代码补全、语法高亮、自动缩进、代码折叠等等。它还支持多个标签页和分屏视图，让用户可以同时编辑多个文件。此外，TrebEdit还可以与Google Drive和Dropbox等云存储服务集成，让用户可以轻松地将他们的代码保存到云端中。<br>TrebEdit还提供了一些高级功能，例如代码片段和自定义快捷键等。用户可以创建自己的代码片段，以便在需要时快速插入常用代码块。同时，用户还可以自定义快捷键，以提高他们的编辑效率。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/sfs621171907.png"></p><div class="note success no-icon flat"><p>当前版本：v 00000<br>软件大小：0MB<br>下载：<a href="https://pan.quark.cn/s/c58537a78bbe">https://pan.quark.cn/s/c58537a78bbe</a><br>下载：<a href="https://wwxl.lanzoul.com/b01wuoh9e">https://wwxl.lanzoul.com/b01wuoh9e</a><br>密码：1nzz</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【流量卡推荐】不限速全国通用 19/月 125+30G</title>
+      <link href="/articles/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+      <url>/articles/%E6%B5%81%E9%87%8F%E5%8D%A1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="【流量卡推荐】不限速全国通用-19-月-125-30G"><a href="#【流量卡推荐】不限速全国通用-19-月-125-30G" class="headerlink" title="【流量卡推荐】不限速全国通用 19&#x2F;月 125+30G"></a>【流量卡推荐】不限速全国通用 19&#x2F;月 125+30G</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712758650723.png"></p><h4 id="流量卡-非物联卡"><a href="#流量卡-非物联卡" class="headerlink" title="流量卡 - 非物联卡"></a>流量卡 - 非物联卡</h4><p>【电信流量卡】-长期套餐，永久使用<br>1.对接电信官方正规后台这个不用担心<br>2.上架的流量卡不是“物联卡”，流量不会【虚】<br>3.信号与网速取决于当地的信号环境<br>4.归属地没有太大影响，很多业务都可以在网上办理，销户也可以异地销户，扫描 0 元办理。</p><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712648162735.png"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1712648105518.png"></th></tr></thead></table><p>QQ 群号：933765924<br>创了个新群方便咨询办理<br>激活后有问题尽量找官方客服毕竟人家是专业的<br>所有品类预览图，扫码可跳转。</p><h4 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h4><p>本卡是电信官方正规流量卡，由于目前电诈活动猖獗，运营商为降低风险，特推出纯流量卡套餐，关闭接打电话功能（非物联卡，可上网、可收发短信）。本卡无合约期，可随时注销，套餐电信任意渠道可查。全国包邮，免费办理。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 推荐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 流量卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AI导航 —— HTML源码</title>
+      <link href="/html-opne/HTML-AItool/"/>
+      <url>/html-opne/HTML-AItool/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/djlbps73878.png"></p><h4 id="1、AI生成完就直接拿来用了，按钮和布局不是很好看-有喜欢魔改的可以调一下css-HTML也可以自己调一下-比如标题的标签"><a href="#1、AI生成完就直接拿来用了，按钮和布局不是很好看-有喜欢魔改的可以调一下css-HTML也可以自己调一下-比如标题的标签" class="headerlink" title="1、AI生成完就直接拿来用了，按钮和布局不是很好看,有喜欢魔改的可以调一下css,HTML也可以自己调一下 比如标题的标签"></a>1、AI生成完就直接拿来用了，按钮和布局不是很好看,有喜欢魔改的可以调一下css,HTML也可以自己调一下 比如标题的标签</h4><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="keyword">html</span>&gt;</span>  </span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&quot;UTF-8&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">title</span>&gt;</span>页面标题<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;css/styles.css&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width, initial-scale=1&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;style.css?v=1.0&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;js/scripts.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 添加美化后的搜索框和搜索按钮 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;search-box&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">id</span>=<span class="string">&quot;search&quot;</span> <span class="attr">placeholder</span>=<span class="string">&quot;搜索按钮关键字...&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">button</span> <span class="attr">id</span>=<span class="string">&quot;search-btn&quot;</span>&gt;</span>搜索<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span>   </span><br><span class="line">      </span><br><span class="line"><span class="comment">&lt;!-- 添加带竖线的标题 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;title-with-line&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h3</span>&gt;</span>搜索引擎<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    </span><br><span class="line"><span class="comment">&lt;!-- 定义按钮组 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Google&#x27;&quot;</span>&gt;</span>https://www.google.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;必应&#x27;&quot;</span>&gt;</span>https://www.bing.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;雅虎&#x27;&quot;</span>&gt;</span>https://www.yahoo.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;百度&#x27;&quot;</span>&gt;</span>https://www.baidu.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Fast科技&#x27;&quot;</span>&gt;</span>https://fastkj.github.io/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Yandex&#x27;&quot;</span>&gt;</span>https://www.yandex.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;鸭鸭去&#x27;&quot;</span>&gt;</span>https://duckduckgo.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;问&#x27;&quot;</span>&gt;</span>https://www.ask.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;美国在线搜索&#x27;&quot;</span>&gt;</span>https://search.aol.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Excite&#x27;&quot;</span>&gt;</span>https://www.excite.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Dogpile&#x27;&quot;</span>&gt;</span>http://www.dogpile.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">&lt;!-- 添加带竖线的标题 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;title-with-line&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h3</span>&gt;</span>自定义按钮<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;在线搜索&#x27;&quot;</span>&gt;</span>https://search.aol.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Excite&#x27;&quot;</span>&gt;</span>https://www.excite.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">button</span> <span class="attr">class</span>=<span class="string">&quot;btn&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;location.href=&#x27;Dogpile&#x27;&quot;</span>&gt;</span>http://www.dogpile.com/<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 获取搜索框、搜索按钮和要搜索的按钮</span></span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> searchInput = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&quot;search&quot;</span>);</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> searchBtn = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&quot;search-btn&quot;</span>);</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> btns = <span class="variable language_">document</span>.<span class="title function_">querySelectorAll</span>(<span class="string">&quot;.btn&quot;</span>);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 当用户点击搜索按钮时，显示匹配的按钮</span></span></span><br><span class="line"><span class="language-javascript">searchBtn.<span class="title function_">addEventListener</span>(<span class="string">&quot;click&quot;</span>, <span class="keyword">function</span>(<span class="params"></span>) &#123;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> searchText = searchInput.<span class="property">value</span>;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; btns.<span class="property">length</span>; i++) &#123;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> btnText = btns[i].<span class="property">textContent</span>.<span class="title function_">toLowerCase</span>();</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">if</span> (btnText.<span class="title function_">includes</span>(searchText.<span class="title function_">toLowerCase</span>())) &#123;</span></span><br><span class="line"><span class="language-javascript">btns[i].<span class="property">style</span>.<span class="property">display</span> = <span class="string">&quot;inline-block&quot;</span>;</span></span><br><span class="line"><span class="language-javascript">&#125; <span class="keyword">else</span> &#123;</span></span><br><span class="line"><span class="language-javascript">btns[i].<span class="property">style</span>.<span class="property">display</span> = <span class="string">&quot;none&quot;</span>;</span></span><br><span class="line"><span class="language-javascript">&#125;</span></span><br><span class="line"><span class="language-javascript">&#125;</span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 当用户在搜索框中输入关键词时，显示匹配的按钮</span></span></span><br><span class="line"><span class="language-javascript">searchInput.<span class="title function_">addEventListener</span>(<span class="string">&quot;input&quot;</span>, <span class="keyword">function</span>(<span class="params"></span>) &#123;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> searchText = searchInput.<span class="property">value</span>;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; btns.<span class="property">length</span>; i++) &#123;</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">const</span> btnText = btns[i].<span class="property">textContent</span>.<span class="title function_">toLowerCase</span>();</span></span><br><span class="line"><span class="language-javascript"><span class="keyword">if</span> (btnText.<span class="title function_">includes</span>(searchText.<span class="title function_">toLowerCase</span>())) &#123;</span></span><br><span class="line"><span class="language-javascript">btns[i].<span class="property">style</span>.<span class="property">display</span> = <span class="string">&quot;inline-block&quot;</span>;</span></span><br><span class="line"><span class="language-javascript">&#125; <span class="keyword">else</span> &#123;</span></span><br><span class="line"><span class="language-javascript">btns[i].<span class="property">style</span>.<span class="property">display</span> = <span class="string">&quot;none&quot;</span>;</span></span><br><span class="line"><span class="language-javascript">&#125;</span></span><br><span class="line"><span class="language-javascript">&#125;</span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* 定义搜索框样式 */</span></span><br><span class="line">   <span class="selector-class">.search-box</span> &#123;</span><br><span class="line">     <span class="attribute">position</span>: relative;</span><br><span class="line">     <span class="attribute">display</span>: inline-block;</span><br><span class="line">     <span class="attribute">margin</span>: <span class="number">20px</span>;</span><br><span class="line">     <span class="attribute">width</span>: <span class="number">90%</span>;</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="selector-class">.search-box</span> <span class="selector-tag">input</span><span class="selector-attr">[type=<span class="string">&quot;text&quot;</span>]</span> &#123;</span><br><span class="line">     <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">     <span class="attribute">padding</span>: <span class="number">10px</span>;</span><br><span class="line">     <span class="attribute">border</span>: none;</span><br><span class="line">     <span class="attribute">border-radius</span>: <span class="number">30px</span>;</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#f2f2f2</span>;</span><br><span class="line">     <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">10px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.1</span>);</span><br><span class="line">     <span class="attribute">transition</span>: all <span class="number">0.3s</span> ease-in-out;</span><br><span class="line">     <span class="attribute">font-size</span>: <span class="number">16px</span>;</span><br><span class="line">     <span class="attribute">color</span>: <span class="number">#333</span>;</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="selector-class">.search-box</span> <span class="selector-tag">input</span><span class="selector-attr">[type=<span class="string">&quot;text&quot;</span>]</span><span class="selector-pseudo">:focus</span> &#123;</span><br><span class="line">     <span class="attribute">outline</span>: none;</span><br><span class="line">     <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">10px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.2</span>);</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#fff</span>;</span><br><span class="line">     <span class="attribute">color</span>: <span class="number">#333</span>;</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="selector-class">.search-box</span> <span class="selector-tag">button</span> &#123;</span><br><span class="line">     <span class="attribute">position</span>: absolute;</span><br><span class="line">     <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">     <span class="attribute">right</span>: <span class="number">0</span>;</span><br><span class="line">     <span class="attribute">padding</span>: <span class="number">10px</span> <span class="number">15px</span>;</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#f2f2f2</span>;</span><br><span class="line">     <span class="attribute">border</span>: none;</span><br><span class="line">     <span class="attribute">border-radius</span>: <span class="number">0px</span> <span class="number">30px</span> <span class="number">30px</span> <span class="number">0px</span>;</span><br><span class="line">     <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">10px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.1</span>);</span><br><span class="line">     <span class="attribute">cursor</span>: pointer;</span><br><span class="line">     <span class="attribute">font-size</span>: <span class="number">16px</span>;</span><br><span class="line">     <span class="attribute">color</span>: <span class="number">#333</span>;</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="selector-class">.search-box</span> <span class="selector-tag">button</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#ddd</span>;</span><br><span class="line">   &#125;</span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line">  </span><br><span class="line">   <span class="comment">/* 定义按钮样式 */</span></span><br><span class="line">   <span class="selector-class">.btn</span> &#123;</span><br><span class="line">     <span class="attribute">display</span>: inline-block;</span><br><span class="line">     <span class="attribute">padding</span>: <span class="number">10px</span> <span class="number">20px</span>;</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#ffffff</span>;</span><br><span class="line">     <span class="attribute">border</span>: <span class="number">2px</span> solid black;</span><br><span class="line">     <span class="attribute">border-radius</span>: <span class="number">7px</span>;</span><br><span class="line">     <span class="attribute">cursor</span>: pointer;</span><br><span class="line">     <span class="attribute">margin-top</span>: <span class="number">8px</span>;</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="comment">/* 定义选中按钮样式 */</span></span><br><span class="line">   <span class="selector-class">.btn-selected</span> &#123;</span><br><span class="line">     <span class="attribute">background-color</span>: <span class="number">#ffffff</span>;</span><br><span class="line">     </span><br><span class="line">   &#125;</span><br><span class="line">  </span><br><span class="line">   <span class="comment">/* 定义带竖线的标题样式 */</span></span><br><span class="line">   <span class="selector-class">.title-with-line</span> &#123;</span><br><span class="line">     <span class="attribute">position</span>: relative;</span><br><span class="line">     <span class="attribute">padding-left</span>: <span class="number">20px</span>;</span><br><span class="line">     <span class="attribute">margin-bottom</span>: <span class="number">20px</span>;</span><br><span class="line">     <span class="attribute">margin-top</span>: <span class="number">18px</span>;</span><br><span class="line">   &#125;</span><br><span class="line">  </span><br><span class="line">   <span class="selector-class">.title-with-line</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">     <span class="attribute">content</span>: <span class="string">&quot;&quot;</span>;</span><br><span class="line">     <span class="attribute">position</span>: absolute;</span><br><span class="line">     <span class="attribute">top</span>: <span class="number">1</span>;</span><br><span class="line">     <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">     <span class="attribute">width</span>: <span class="number">6px</span>;</span><br><span class="line">     <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">     <span class="attribute">background-color</span>: green;</span><br><span class="line">     <span class="attribute">vertical-align</span>: middle;</span><br><span class="line">   &#125;</span><br><span class="line">  </span><br><span class="line">   <span class="selector-class">.title-with-line</span> <span class="selector-tag">h3</span> &#123;</span><br><span class="line">     <span class="attribute">display</span>: inline-block;</span><br><span class="line">     <span class="attribute">vertical-align</span>: middle;</span><br><span class="line">     <span class="attribute">margin</span>: <span class="number">0</span>;</span><br><span class="line">     <span class="attribute">padding-left</span>: <span class="number">10px</span>;</span><br><span class="line">   &#125;</span><br></pre></td></tr></table></figure><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/dkhlhsvk9804.png"></p><p>2、单个替换链接名称太麻烦所以写了个批量生成工具，只需要输入（链接 名称）点击生成复制到代码里即可：<a href="https://fastkj.github.io/Html/Replace-tool/">批量生成代码</a></p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/lvhliei873029.png"></p><h4 id="生成后复制替换代码即可"><a href="#生成后复制替换代码即可" class="headerlink" title="生成后复制替换代码即可"></a>生成后复制替换代码即可</h4><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/dlkhvj83720.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 开源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>eu.org 永久免费顶级域名 注册教程</title>
+      <link href="/articles/%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/"/>
+      <url>/articles/%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/kkhlhlkhlzhdkh.png">虽然是个二级域名，但从1996年创建至今都免费开放注册，稳定性也还不错，今天刚好有空多注册两条备用，记录一下注册过程。</p><h3 id="1-打开eu注册https-nic-eu-org"><a href="#1-打开eu注册https-nic-eu-org" class="headerlink" title="1.打开eu注册https://nic.eu.org/"></a>1.打开eu注册<a href="https://nic.eu.org/">https://nic.eu.org/</a></h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(14).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(13).png"></p><h3 id="2-注册信息需要国外的可以用这个网站生成一份英国身份信息"><a href="#2-注册信息需要国外的可以用这个网站生成一份英国身份信息" class="headerlink" title="2.注册信息需要国外的可以用这个网站生成一份英国身份信息"></a>2.注册信息需要国外的可以用这个网站生成一份英国身份信息</h3><p>英国人地址生成器：<a href="https://www.shenfendaquan.com/Index/index/ying_guo_shen_fen_sheng_cheng">https://www.shenfendaquan.com/Index/index/ying_guo_shen_fen_sheng_cheng</a><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(12).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(11).png"></p><h3 id="3-邮箱验证-登录eu"><a href="#3-邮箱验证-登录eu" class="headerlink" title="3.邮箱验证&#x2F;登录eu"></a>3.邮箱验证&#x2F;登录eu</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(10).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(9).png"></p><h3 id="4-注册域名-域名后缀“eu-org”"><a href="#4-注册域名-域名后缀“eu-org”" class="headerlink" title="4.注册域名&#x2F;域名后缀“eu.org”"></a>4.注册域名&#x2F;域名后缀“eu.org”</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(8).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(7).png"></p><h3 id="5-域名解析-打开腾讯云搜索-DNS-解析-域名解析"><a href="#5-域名解析-打开腾讯云搜索-DNS-解析-域名解析" class="headerlink" title="5.域名解析&#x2F;打开腾讯云搜索 DNS 解析&#x2F;域名解析"></a>5.域名解析&#x2F;打开腾讯云搜索 DNS 解析&#x2F;域名解析</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(6).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(5).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(4).png"></p><h3 id="6-选择服务器名称-将解析地址粘贴至网站里-选择提交"><a href="#6-选择服务器名称-将解析地址粘贴至网站里-选择提交" class="headerlink" title="6.选择服务器名称&#x2F;将解析地址粘贴至网站里&#x2F;选择提交"></a>6.选择服务器名称&#x2F;将解析地址粘贴至网站里&#x2F;选择提交</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(3).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yuming%20(2).png"></p><h3 id="7-提交申请后等待3-15天再登录即可"><a href="#7-提交申请后等待3-15天再登录即可" class="headerlink" title="7.提交申请后等待3-15天再登录即可"></a>7.提交申请后等待3-15天再登录即可</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/dkkkglkjkkj5.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 免费域名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Midjourney AI绘图 注册使用教程</title>
+      <link href="/articles/Midjourney%20AI/"/>
+      <url>/articles/Midjourney%20AI/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/efff012c.png"></p><h3 id="记录Midjourney注册登录过程"><a href="#记录Midjourney注册登录过程" class="headerlink" title="记录Midjourney注册登录过程"></a>记录Midjourney注册登录过程</h3><p>1.注册Discord账号 <a href="https://discord.com/">https://discord.com/</a><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/P8B%5BI8@LIVIR(J(P($YJNEF.png">2.打开Midjourney使用Discord账号登录Midjourney <a href="https://www.midjourney.com/">https://www.midjourney.com/</a><br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/jghlklgkrihihgr.png">登录时会提示你创建一个服务器 选择“仅供我和我的朋友使用” 这一步挺关键的因为后面需要用到服务器<img src="https://warm-dieffenbachia-f521a5.netlify.app/img/hrkjjkvdkjbk.png">如果注册时没创建也可以在主页+号添加<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/jhkajjjbvkj.png"></p><p>3.搜索“midjourneybot”进入自己的服务器<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/dhdfstetetrito.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/L%5BEUPRW~P75OKHZ7~_64CMV.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/gjahiyoodhnnv.png"><br>4.添加至服务器&#x2F;点击继续&#x2F;授权<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/goeqjkjbdkabkjb.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/kjqohrjkbab,mz.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/yqjhkjbadkjbkbj.png"><br>5.返回主页找到底部对话框输入&#x2F;ima 选择&#x2F;imagine 并输入你想生成的AI内容<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/eoehlkdsh.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/dgoihougdkjg.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/euwyiukjfbbfd.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Clash/v2rayNG节点导入简易教程</title>
+      <link href="/articles/clash%E5%AE%89%E5%8D%93/"/>
+      <url>/articles/clash%E5%AE%89%E5%8D%93/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Clash-v2rayNG-节点导入简易教程"><a href="#Clash-v2rayNG-节点导入简易教程" class="headerlink" title="Clash&#x2F;v2rayNG 节点导入简易教程"></a>Clash&#x2F;v2rayNG 节点导入简易教程</h3><p>针对Clash写一遍比较详细的使用教程，目前安卓主流的代理工具有v2rayng和Clash，个人比较推荐Clash，因为v2r需要打开应用更新节点，可根据需求自行选择。仅供小白参考！ </p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/640.png"></p><h3 id="如何导入-Clash-节点"><a href="#如何导入-Clash-节点" class="headerlink" title="如何导入 Clash 节点"></a>如何导入 Clash 节点</h3><p>导入方式分为两种 订阅源链接(URL)和后缀.yaml 命名的文件。</p><h3 id="URL订阅源导入方式"><a href="#URL订阅源导入方式" class="headerlink" title="URL订阅源导入方式"></a>URL订阅源导入方式</h3><p>自动更新时间根据自己的订阅源调试，如果不是经常用可以改成60分钟更新。</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/505.png"></p><p>文件导入跟电子书导入其实是一个道理，把下载好的.yaml 命名的节点文件导入到 clash 运行即可。</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/12.jpg"></p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/13.jpg"></p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/14.jpg"></p><h3 id="如何导入-v2ray-节点"><a href="#如何导入-v2ray-节点" class="headerlink" title="如何导入 v2ray 节点"></a>如何导入 v2ray 节点</h3><p>​ 链接导入方式：订阅设置&#x2F;主页右上角&#x2F;更新订阅</p><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/15.jpg"></p><p>文件导入方式：打开.txt 文件全选复制&#x2F;从粘贴板导入<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/16.jpg"></p><h4 id="如果没看懂群文件有提供视频教程和节点参考"><a href="#如果没看懂群文件有提供视频教程和节点参考" class="headerlink" title="如果没看懂群文件有提供视频教程和节点参考"></a>如果没看懂群文件有提供视频教程和节点参考</h4><p>QQ群：651998927<br>QQ群：754909334<br>QQ群：540096801</p><div class="note success no-icon flat"><p>clash 版本号：v2.5.12<br>v2ray 版本号：v1.7.33<br>下载：<a href="https://wwxl.lanzoul.com/b01su2jmd">https://wwxl.lanzoul.com/b01su2jmd</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> clash安卓 </tag>
+            
+            <tag> 导入节点 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Chrome 谷歌浏览器</title>
+      <link href="/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+      <url>/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Chrome-谷歌浏览器"><a href="#Chrome-谷歌浏览器" class="headerlink" title="Chrome 谷歌浏览器"></a>Chrome 谷歌浏览器</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/161.png"></p><p>Chrome 浏览器，一般又称 Chrome。<br>Google Chrome 是一款快速、易用且安全的网络浏览器。此版 Chrome 是专为 Android 设计的，不仅可为您量身推荐新闻报道，还有快速链接指向您所收藏的网站和下载的内容，甚至还内置了 Google 搜索和谷歌翻译。立即下载此版 Chrome，在您的所有设备上享受一致的 Chrome 网络浏览器体验吧。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/162.png","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/163.png","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>快速浏览，减少输入操作。您既可从即搜即得的个性化搜索结果中进行选择，也可快速浏览之前访问过的网页。您还可使用“自动填充”功能快速填写表单。<br>无痕式浏览。您可以使用无痕模式浏览互联网 - 在这种模式下，系统不会保存您的历史记录。在您的所有设备上，您都能私密地浏览。<br>在多部设备间同步 Chrome。当您登录 Chrome 之后，您的书签、密码和设置将会自动在您的所有设备之间保持同步。您可在手机、平板电脑或笔记本电脑上无缝访问自己的所有信息。<br>只需轻轻点按一下，即可查看您收藏的所有内容。Chrome 并非只能快速执行 Google 搜索，而是经过了精心设计，只需轻轻一按即可浏览收藏的所有内容。您可在新标签页中直接点按收藏的新闻网站或社交媒体。Chrome 还提供了“点按搜索”功能 - 该功能在大多数网页上可用。您只需在当前浏览的网页中点按任意字词或短语，即可在不离开该网页的情况下发起 Google 搜索。<br>使用 Google 安全浏览功能保护手机。Chrome 内置了 Google 安全浏览功能。当您尝试访问危险网站或下载危险文件时，该功能会向您显示警告以保护手机的安全。</p><div class="note success no-icon flat"><p>当前版本：v 102.0.5005.59<br>软件大小：116MB<br>回复获取：谷歌浏览器<br>请在公众号内输入“谷歌浏览器”获取</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浏览器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「谷歌地球」精简/破解无广告/清爽版</title>
+      <link href="/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE/"/>
+      <url>/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="「谷歌地球」精简-破解无广告-清爽版"><a href="#「谷歌地球」精简-破解无广告-清爽版" class="headerlink" title="「谷歌地球」精简&#x2F;破解无广告&#x2F;清爽版"></a>「谷歌地球」精简&#x2F;破解无广告&#x2F;清爽版</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/120.jpg"></p><p>使用 Google 地球 Android 版，只需轻轻滑动手指，即可畅游全世界。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/117.jpg"><br>Google 另一款著名的产品 Google Earth（谷歌地球），谷歌地球（Google Earth，简称 GE）是一款 Google 公司开发的虚拟地球仪软件，它把卫星照片、航空照相和 GIS 布置在一个地球的三维模型上，让您更清楚滴了解地球。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/118.jpg"><br>Google Earth 于 2005 年向全球推出，被“PC 世界杂志”评为 2005 年全球 100 种最佳新产品之一。用户们可以通过一个下载到自己电脑上的客户端软件，免费浏览全球各地的高清晰度卫星图片。Google 地球分为免费版与专业版两种。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/119.jpg"></p><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>Google Earth 采用的 3D 地图定位技术能够把 Google Map 上的最新卫星图片推向一个新水平。用户可以在 3D 地图上搜索特定区域，放大缩小虚拟图片，然后形成行车指南。此外，Google Earth 还精心制作了一个特别选项——鸟瞰旅途，让驾车人士的活力油然而生。Google Earth 主要通过访问 Keyhole 的航天和卫星图片扩展数据库来实现这些上述功能。该数据库在上星期进行了更新，它含有美国宇航局提供的大量地形数据，未来还将覆盖更多的地形，涉及田园，荒地等。</p><p>浏览伦敦、东京和罗马等城市的 3D 图像</p><p>·通过集成的街景，探访世界的各个角落</p><p>·使用游览向导功能探寻引人入胜的新地点</p><p>·浏览“维基百科”或“照片”图层，了解相应地点的</p><p>·从“地图库”中发掘有趣的地图（例如，实时绘制的地震点、飞行中航班的位置以及远足路线等）</p><div class="note success no-icon flat"><p>当前版本：v9.155.0.2<br>软件大小：21MB<br>下载：<a href="https://wwi.lanzoui.com/b01svhpng">https://wwi.lanzoui.com/b01svhpng</a><br>密码：dbns<br>需配合梯子使用，链接或群都有免费提供</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 谷歌地球 </tag>
+            
+            <tag> 地图 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Clash PC端 汉化补丁(安装导入教程)</title>
+      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/"/>
+      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程"><a href="#Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程" class="headerlink" title="Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程"></a>Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程</h3><p><img src="http://picodemo.fastkj.top/picture/cover/348289_192919.png"></p><p>昨天看到 Clash 汉化补丁更新了，顺便补个小白教程，新版 Clash 可以到 github 仓库下载，估计群里很多都还在用 0.19.8 这个版本，可到仓库根据需求自行更新。</p><h3 id="1、打开链接-根据自己系统下载相对应版本，安装（路径记住）"><a href="#1、打开链接-根据自己系统下载相对应版本，安装（路径记住）" class="headerlink" title="1、打开链接 根据自己系统下载相对应版本，安装（路径记住）"></a>1、打开链接 根据自己系统下载相对应版本，安装（路径记住）</h3><div class="note default simple"><p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p></div><p><img src="http://picodemo.fastkj.top/picture/img/1111111.png"></p><h3 id="2、打开-clash-文件夹-进入-resources-文件夹"><a href="#2、打开-clash-文件夹-进入-resources-文件夹" class="headerlink" title="2、打开 clash 文件夹&#x2F;进入 resources 文件夹"></a>2、打开 clash 文件夹&#x2F;进入 resources 文件夹</h3><p><img src="http://picodemo.fastkj.top/picture/img/11.png"></p><h3 id="3、下载汉化补丁，解压后将-app-asar-替换到文件夹里"><a href="#3、下载汉化补丁，解压后将-app-asar-替换到文件夹里" class="headerlink" title="3、下载汉化补丁，解压后将 app.asar 替换到文件夹里"></a>3、下载汉化补丁，解压后将 app.asar 替换到文件夹里</h3><div class="note default simple"><p>汉化补丁：<a href="https://wwd.lanzoul.com/b01vat1pi">https://wwd.lanzoul.com/b01vat1pi</a><br>密码：d6ep</p></div><p><img src="http://picodemo.fastkj.top/picture/img/1.png"></p><h3 id="4、汉化后效果"><a href="#4、汉化后效果" class="headerlink" title="4、汉化后效果"></a>4、汉化后效果</h3><p><img src="http://picodemo.fastkj.top/picture/img/1111.png"></p><h3 id="5、节点导入方式"><a href="#5、节点导入方式" class="headerlink" title="5、节点导入方式"></a>5、节点导入方式</h3><p><img src="http://picodemo.fastkj.top/picture/img/111.png"></p><h3 id="提示一下；如果导入节点后网速不跑，两种解决方案。"><a href="#提示一下；如果导入节点后网速不跑，两种解决方案。" class="headerlink" title="提示一下；如果导入节点后网速不跑，两种解决方案。"></a>提示一下；如果导入节点后网速不跑，两种解决方案。</h3><p>1、节点过期，更换节点。<br>2、以管理员身份运行 Clash。</p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PC端 </tag>
+            
+            <tag> Clash </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GitHub＋PicGo 图床搭建教程 无限存储空间</title>
+      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/"/>
+      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/</url>
+      
+        <content type="html"><![CDATA[<h3 id="GitHub-＋-PicGo-图床搭建教程-无限存储空间"><a href="#GitHub-＋-PicGo-图床搭建教程-无限存储空间" class="headerlink" title="GitHub ＋ PicGo 图床搭建教程 无限存储空间"></a>GitHub ＋ PicGo 图床搭建教程 无限存储空间</h3><p><img src="http://picodemo.fastkj.top/picture/img/27.jpg"></p><p>因为需要备份大量的图片，但市面上很多免费的图床都有限制，国内第三方图床配置应用都需要会员，所以比较推荐 GitHub ＋ PicGo 配置图床,平时用的都是 PC 端 PicGo，最近发现 PicGo 有安卓版，写一个配置教程。</p><p>优点：无限存储空间、秒上传下载、自定义图床链接</p><h3 id="1、创建-GitHub-图床仓库"><a href="#1、创建-GitHub-图床仓库" class="headerlink" title="1、创建 GitHub 图床仓库"></a>1、创建 GitHub 图床仓库</h3><p>首先需要有一个登录 GitHub 的账号，没有的话去官网注册一个 <a href="https://github.com/">https://github.com/</a></p><p>创建一个新的图床仓库</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/28.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/29.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/30.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="2、获取-GitHub-token-值"><a href="#2、获取-GitHub-token-值" class="headerlink" title="2、获取 GitHub token 值"></a>2、获取 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/31.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/32.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/33.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="3、复制-GitHub-token-值"><a href="#3、复制-GitHub-token-值" class="headerlink" title="3、复制 GitHub token 值"></a>3、复制 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/34.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/35.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/36.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="4、下载配置-PicGo"><a href="#4、下载配置-PicGo" class="headerlink" title="4、下载配置 PicGo"></a>4、下载配置 PicGo</h3><p>开源项目就不搬运了自行到仓库下载</p><p>Flutter-PicGo 仓库：<a href="https://github.com/PicGo/flutter-picgo/releases">https://github.com/PicGo/flutter-picgo/releases</a></p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/37.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/38.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/39.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="配置方式"><a href="#配置方式" class="headerlink" title="配置方式"></a>配置方式</h3><ol><li><p>设定分支名 (必填)：<br>仓库分支名填写”master” 或者”main”</p></li><li><p>自定义域名(可填镜像源提升上传速度)：<br>镜像源：<a href="https://cdn.jsdelivr.net/gh/%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/仓库名</a></p></li><li><p>指定存储路径：<br>这个选项可以为空，如果想将图片上传到仓库的指定目录下，可以填写 img&#x2F;</p></li><li><p>按照 “GitHub 账户名 &#x2F; 仓库名的格式填写”，比如我的是：Fast&#x2F;picture</p></li><li><p>设定 Token (必填)：<br>将之前步骤的 Token 值复制粘贴到这里</p></li></ol><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床搭建 </tag>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Clash PC端 汉化补丁(安装导入教程)</title>
+      <link href="/winpc/PC%E7%AB%AFclash/"/>
+      <url>/winpc/PC%E7%AB%AFclash/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程"><a href="#Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程" class="headerlink" title="Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程"></a>Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/348289_192919.png"></p><p>昨天看到 Clash 汉化补丁更新了，顺便补个小白教程，新版 Clash 可以到 github 仓库下载，估计群里很多都还在用 0.19.8 这个版本，可到仓库根据需求自行更新。</p><h3 id="1、打开链接-根据自己系统下载相对应版本，安装（路径记住）"><a href="#1、打开链接-根据自己系统下载相对应版本，安装（路径记住）" class="headerlink" title="1、打开链接 根据自己系统下载相对应版本，安装（路径记住）"></a>1、打开链接 根据自己系统下载相对应版本，安装（路径记住）</h3><div class="note default simple"><p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p></div><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/1111111.png"></p><h3 id="2、打开-clash-文件夹-进入-resources-文件夹"><a href="#2、打开-clash-文件夹-进入-resources-文件夹" class="headerlink" title="2、打开 clash 文件夹&#x2F;进入 resources 文件夹"></a>2、打开 clash 文件夹&#x2F;进入 resources 文件夹</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/11.png"></p><h3 id="3、下载汉化补丁，解压后将-app-asar-替换到文件夹里"><a href="#3、下载汉化补丁，解压后将-app-asar-替换到文件夹里" class="headerlink" title="3、下载汉化补丁，解压后将 app.asar 替换到文件夹里"></a>3、下载汉化补丁，解压后将 app.asar 替换到文件夹里</h3><div class="note default simple"><p>汉化补丁：<a href="https://wwd.lanzoul.com/b01vat1pi">https://wwd.lanzoul.com/b01vat1pi</a><br>密码：d6ep</p></div><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/1.png"></p><h3 id="4、汉化后效果"><a href="#4、汉化后效果" class="headerlink" title="4、汉化后效果"></a>4、汉化后效果</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/1111.png"></p><h3 id="5、节点导入方式"><a href="#5、节点导入方式" class="headerlink" title="5、节点导入方式"></a>5、节点导入方式</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/111.png"></p><h3 id="提示一下；如果导入节点后网速不跑，两种解决方案。"><a href="#提示一下；如果导入节点后网速不跑，两种解决方案。" class="headerlink" title="提示一下；如果导入节点后网速不跑，两种解决方案。"></a>提示一下；如果导入节点后网速不跑，两种解决方案。</h3><p>1、节点过期，更换节点。<br>2、以管理员身份运行 Clash。</p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PC端 </tag>
+            
+            <tag> Clash </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GitHub＋PicGo 图床搭建教程 无限存储空间</title>
+      <link href="/winpc/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/"/>
+      <url>/winpc/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/</url>
+      
+        <content type="html"><![CDATA[<h3 id="GitHub-＋-PicGo-图床搭建教程-无限存储空间"><a href="#GitHub-＋-PicGo-图床搭建教程-无限存储空间" class="headerlink" title="GitHub ＋ PicGo 图床搭建教程 无限存储空间"></a>GitHub ＋ PicGo 图床搭建教程 无限存储空间</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/27.jpg"></p><p>因为需要备份大量的图片，但市面上很多免费的图床都有限制，国内第三方图床配置应用都需要会员，所以比较推荐 GitHub ＋ PicGo 配置图床,平时用的都是 PC 端 PicGo，最近发现 PicGo 有安卓版，写一个配置教程。</p><p>优点：无限存储空间、秒上传下载、自定义图床链接</p><h3 id="1、创建-GitHub-图床仓库"><a href="#1、创建-GitHub-图床仓库" class="headerlink" title="1、创建 GitHub 图床仓库"></a>1、创建 GitHub 图床仓库</h3><p>首先需要有一个登录 GitHub 的账号，没有的话去官网注册一个 <a href="https://github.com/">https://github.com/</a></p><p>创建一个新的图床仓库</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/28.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/29.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/30.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="2、获取-GitHub-token-值"><a href="#2、获取-GitHub-token-值" class="headerlink" title="2、获取 GitHub token 值"></a>2、获取 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/31.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/32.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/33.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="3、复制-GitHub-token-值"><a href="#3、复制-GitHub-token-值" class="headerlink" title="3、复制 GitHub token 值"></a>3、复制 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/34.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/35.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/36.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="4、下载配置-PicGo"><a href="#4、下载配置-PicGo" class="headerlink" title="4、下载配置 PicGo"></a>4、下载配置 PicGo</h3><p>开源项目就不搬运了自行到仓库下载</p><p>Flutter-PicGo 仓库：<a href="https://github.com/PicGo/flutter-picgo/releases">https://github.com/PicGo/flutter-picgo/releases</a></p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/37.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/38.jpg","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/39.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="配置方式"><a href="#配置方式" class="headerlink" title="配置方式"></a>配置方式</h3><ol><li><p>设定分支名 (必填)：<br>仓库分支名填写”master” 或者”main”</p></li><li><p>自定义域名(可填镜像源提升上传速度)：<br>镜像源：<a href="https://cdn.jsdelivr.net/gh/%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/仓库名</a></p></li><li><p>指定存储路径：<br>这个选项可以为空，如果想将图片上传到仓库的指定目录下，可以填写 img&#x2F;</p></li><li><p>按照 “GitHub 账户名 &#x2F; 仓库名的格式填写”，比如我的是：Fast&#x2F;picture</p></li><li><p>设定 Token (必填)：<br>将之前步骤的 Token 值复制粘贴到这里</p></li></ol><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床搭建 </tag>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vanced Manager 第三方安装器（安装教程）</title>
+      <link href="/%E8%B0%B7%E6%AD%8C/Vanced%E7%AC%AC%E4%B8%89%E6%96%B9%E5%AE%89%E8%A3%85%E5%99%A8/"/>
+      <url>/%E8%B0%B7%E6%AD%8C/Vanced%E7%AC%AC%E4%B8%89%E6%96%B9%E5%AE%89%E8%A3%85%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Vanced-Manager-第三方安装器-YouTube-Spotify-匀无广告"><a href="#Vanced-Manager-第三方安装器-YouTube-Spotify-匀无广告" class="headerlink" title="Vanced Manager 第三方安装器&#x2F;YouTube Spotify 匀无广告"></a>Vanced Manager 第三方安装器&#x2F;YouTube Spotify 匀无广告</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/djfdndzrhnn.png"></p><p>vanced Manager 因法律原因被关闭一年多了，三件套里的MicroG框架还是可以用的 但需要自己找能用的YouTube和Spotify版本，支持谷歌账号登录。</p><p>最近换手机实测支持安卓13，以小米手机为例安装好MicroG安装包后给予MicroG软件自启动权限。然后安装链接里的油管即可。</p><p>手机管家-应用权限-权限-自启动管理-将框架打勾即可</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/tjERhEHErhh.png","alt":""},{"url":"https://warm-dieffenbachia-f521a5.netlify.app/img/rhegkj.png","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h2 id="MIUI-安装教程"><a href="#MIUI-安装教程" class="headerlink" title="MIUI - 安装教程"></a>MIUI - 安装教程</h2><h4 id="小米需要关闭-miui-优化才能安装，安装好后再启用就行。"><a href="#小米需要关闭-miui-优化才能安装，安装好后再启用就行。" class="headerlink" title="小米需要关闭 miui 优化才能安装，安装好后再启用就行。"></a>小米需要关闭 miui 优化才能安装，安装好后再启用就行。</h4><p>1、设置 - 开发者选项 - 关闭 MIUI 优化</p><p>2、下载安装时不需要挂梯子</p><p>3、先安装 MicroG - 手机管家里允许 MicroG 自启动（测试了很多遍，无法加载或闪退都是自启动没打开）</p><p>4、安装 YouTube&#x2F;Spotify</p><p>5、测试加载登录没问题后把 miui 优化打开即可</p><div class="note success no-icon flat"><p>下载：<a href="https://wwxl.lanzoul.com/b01tktj3c">https://wwxl.lanzoul.com/b01tktj3c</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> YouTube </tag>
+            
+            <tag> Spotify </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
