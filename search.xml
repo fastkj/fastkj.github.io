@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Edge Copilot-支持 AI—扩展插件</title>
+      <link href="/android/edge/"/>
+      <url>/android/edge/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715334822168.png"></p><h3 id="应用介绍"><a href="#应用介绍" class="headerlink" title="应用介绍"></a>应用介绍</h3><p>Edge（Microsoft Edge）是一款由微软开发的现代化网络浏览器，旨在提供快速、安全和个性化的上网体验。作为Windows 10操作系统的默认浏览器，Edge拥有许多独特的功能和优点。</p><p>首先，Edge采用了全新的浏览引擎（EdgeHTML），使网页的加载速度更快、响应更迅捷。无论是打开网页、搜索内容还是播放视频，Edge都能以出色的性能提供流畅的浏览体验。</p><p>其次，Edge注重隐私和安全。它内置了强大的防护机制，包括反跟踪技术、强化的沙盒环境和智能的防护工具，以保护用户的隐私数据和安全。此外，Edge还支持Windows Hello功能，允许用户使用面部识别或指纹识别登录网站，提高了账户安全性。</p><p>Edge还提供了一系列的产品性能增强功能。通过集成Cortana（微软的个人助理），用户可以轻松地进行语音搜索、获取即时信息和提醒。还有阅读视图，可以将网页转化为专注于阅读的清晰版面，方便用户阅读长篇文章和新闻。</p><p>Edge还支持扩展插件，用户可以根据自己的需求安装各种实用工具和功能扩展，个性化自己的浏览器。</p><p>四图</p><table><thead><tr><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715330937077.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715330948718.jpg"></th><th align="center"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715330937078.jpg"></th></tr></thead></table><h3 id="Beta测试版："><a href="#Beta测试版：" class="headerlink" title="Beta测试版："></a>Beta测试版：</h3><p>Beta测试版软件开发过程中的一个阶段，通常在软件的主要功能已经开发完成，但可能还存在一些未知的错误或问题时发布。Beta版的主要目标是广泛的测试，以便发现和修复可能存在的问题。</p><h3 id="Dev开发版："><a href="#Dev开发版：" class="headerlink" title="Dev开发版："></a>Dev开发版：</h3><p>Dev针对开发者的版本，通常包含最新的功能和改进，但也可能包含更多的错误和问题。开发版的目标是让开发者能够测试和使用最新的功能，以便为将来的稳定版做准备。</p><ul><li>下载地址<a href="https://pan.quark.cn/s/12b23abb59fa">点击链接</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安卓 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浏览器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Arc浏览器 win 内测申请以及安装方式</title>
       <link href="/winpc/arc/"/>
       <url>/winpc/arc/</url>
@@ -70,9 +95,9 @@
       
         <tags>
             
-            <tag> clash </tag>
-            
             <tag> 节点导入 </tag>
+            
+            <tag> clash </tag>
             
         </tags>
       

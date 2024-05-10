@@ -6,7 +6,7 @@
   <link href="https://www.fastkj.top/atom.xml" rel="self"/>
   
   <link href="https://www.fastkj.top/"/>
-  <updated>2024-05-02T04:06:02.131Z</updated>
+  <updated>2024-05-10T10:17:54.686Z</updated>
   <id>https://www.fastkj.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Edge Copilot-支持 AI—扩展插件</title>
+    <link href="https://www.fastkj.top/android/edge/"/>
+    <id>https://www.fastkj.top/android/edge/</id>
+    <published>2024-05-10T06:09:00.000Z</published>
+    <updated>2024-05-10T10:17:54.686Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715334822168.png&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;应用介绍&quot;&gt;&lt;a href=&quot;#应用介绍&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="安卓" scheme="https://www.fastkj.top/categories/%E5%AE%89%E5%8D%93/"/>
+    
+    
+    <category term="浏览器" scheme="https://www.fastkj.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Arc浏览器 win 内测申请以及安装方式</title>
@@ -91,9 +117,9 @@
     <category term="科学上网" scheme="https://www.fastkj.top/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-    <category term="clash" scheme="https://www.fastkj.top/tags/clash/"/>
-    
     <category term="节点导入" scheme="https://www.fastkj.top/tags/%E8%8A%82%E7%82%B9%E5%AF%BC%E5%85%A5/"/>
+    
+    <category term="clash" scheme="https://www.fastkj.top/tags/clash/"/>
     
   </entry>
   
@@ -502,31 +528,6 @@
     
     
     <category term="开源" scheme="https://www.fastkj.top/tags/%E5%BC%80%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>eu.org 永久免费顶级域名 注册教程</title>
-    <link href="https://www.fastkj.top/articles/%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/"/>
-    <id>https://www.fastkj.top/articles/%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/</id>
-    <published>2023-02-20T04:07:00.000Z</published>
-    <updated>2024-04-10T14:25:27.874Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="教程" scheme="https://www.fastkj.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="免费域名" scheme="https://www.fastkj.top/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/"/>
     
   </entry>
   
