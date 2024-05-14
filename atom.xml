@@ -6,7 +6,7 @@
   <link href="https://www.fastkj.top/atom.xml" rel="self"/>
   
   <link href="https://www.fastkj.top/"/>
-  <updated>2024-05-10T10:17:54.686Z</updated>
+  <updated>2024-05-14T05:42:21.499Z</updated>
   <id>https://www.fastkj.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ChatGPT-4o 使用体验</title>
+    <link href="https://www.fastkj.top/winpc/ChatGPT-4o/"/>
+    <id>https://www.fastkj.top/winpc/ChatGPT-4o/</id>
+    <published>2024-05-14T02:09:00.000Z</published>
+    <updated>2024-05-14T05:42:21.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="https://www.fastkj.top/categories/AI/"/>
+    
+    
+    <category term="ChatGPT-4o" scheme="https://www.fastkj.top/tags/ChatGPT-4o/"/>
+    
+  </entry>
   
   <entry>
     <title>Edge Copilot-支持 AI—扩展插件</title>
@@ -502,32 +527,6 @@
     
     
     <category term="流量卡" scheme="https://www.fastkj.top/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AI导航 —— HTML源码</title>
-    <link href="https://www.fastkj.top/html-opne/HTML-AItool/"/>
-    <id>https://www.fastkj.top/html-opne/HTML-AItool/</id>
-    <published>2023-04-26T16:00:00.000Z</published>
-    <updated>2024-04-10T14:30:54.824Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://warm-dieffenbachia-f521a5.netlify.app/img/djlbps73878.png&quot;&gt;&lt;/p&gt;
-&lt;h4</summary>
-        
-      
-    
-    
-    
-    <category term="教程" scheme="https://www.fastkj.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="开源" scheme="https://www.fastkj.top/tags/%E5%BC%80%E6%BA%90/"/>
     
   </entry>
   
