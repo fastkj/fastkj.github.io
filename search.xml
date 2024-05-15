@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>PiliPala 开源应用 Bilibili 第三方客户端</title>
+      <link href="/android/PiliPala/"/>
+      <url>/android/PiliPala/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787332682.png"></p><p>PiliPala是一个使用Flutter开发的BiliBili第三方客户端。</p><ul><li>视频播放：支持双击快进&#x2F;快退，垂直方向调节亮度&#x2F;音量，全屏播放等。</li><li>视频管理：包括离线缓存、观看记录。- 用户交互：用户可以关注&#x2F;取关其他用户，查看粉丝和关注列表，以及拉黑不想看的用户。</li><li>评论系统：用户可以查看和回复动态评论，动态评论也会有未读标记。</li><li>搜索功能：支持热搜词汇，历史搜索记录，以及对投稿、番剧、直播间和用户的搜索。</li><li>视频详情：用户可以切换不同视频选集，进行点赞、投币、收藏等操作。</li></ul><table><thead><tr><th align="center"><a href="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787423696.jpg">https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787423696.jpg</a></th><th align="center"><a href="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787423697.jpg">https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787423697.jpg</a></th><th align="center"><a href="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787438549.jpg">https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1715787438549.jpg</a></th></tr></thead></table><p>此外，PiliPala还提供了一些定制化的设置选项，比如画质、音质、解码方式的预设，主题模式的选择，以及下载功能。<br>PiliPala项目是为了个人兴趣而开发的，仅用于学习和测试，所有使用的API都是从官方网站收集的，不提供任何破解内容。</p><p>软件版本：v1.0.23<br>软件大小：19.06<br>下载地址：<a href="https://pan.quark.cn/s/7ca82f1b56a5">点击链接</a><br>下载地址：<a href="www.123pan.com/s/DY5A-SsQsd.html">点击链接</a><br>将链接复制到浏览器下载</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安卓 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 视频 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ChatGPT-4o 使用体验</title>
       <link href="/winpc/ChatGPT-4o/"/>
       <url>/winpc/ChatGPT-4o/</url>
@@ -362,31 +387,6 @@
     
     
     <entry>
-      <title>GKD 去除启动广告</title>
-      <link href="/articles/gkd/"/>
-      <url>/articles/gkd/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 应用 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 安卓 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Git-nodejs 安装环境</title>
       <link href="/articles/nodejs/"/>
       <url>/articles/nodejs/</url>
@@ -417,31 +417,6 @@
       <title>新版v2rayn PC安装 导入订阅教程</title>
       <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/v2rayn%20PC/"/>
       <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/v2rayn%20PC/</url>
-      
-        <content type="html"><![CDATA[<p><img src="http://picodemo.fastkj.top/picture/cover/70908899876.png"></p><h3 id="Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具"><a href="#Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具" class="headerlink" title="Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具"></a>Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具</h3><p>关于导入写的算比较详细了包括 下载 安装 导入订阅 订阅刷新 Vmess类型节点添加<br>在开头说一下估计都没耐心看完整篇 安装完网速不跑建议看最后一张图</p><h3 id="1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases"><a href="#1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases" class="headerlink" title="1、v2rayN PC端仓库；https://github.com/2dust/v2rayN/releases"></a>1、v2rayN PC端仓库；<a href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases</a></h3><p>根据自己电脑系统下载相对应版本<br><img src="http://picodemo.fastkj.top/picture/img/UJKJKkhjckjzkj.png"><img src="http://picodemo.fastkj.top/picture/img/5MZXEO.png"></p><h3 id="2、解压下载好的zip安装包并安装"><a href="#2、解压下载好的zip安装包并安装" class="headerlink" title="2、解压下载好的zip安装包并安装"></a>2、解压下载好的zip安装包并安装</h3><p><img src="http://picodemo.fastkj.top/picture/img/A1F%60JW8.png"><img src="http://picodemo.fastkj.top/picture/img/K65M%7B%5DT.png"></p><h3 id="3、关于节点导入"><a href="#3、关于节点导入" class="headerlink" title="3、关于节点导入:"></a>3、关于节点导入:</h3><p>如：Vmess的节点复制粘贴添加即可<br><img src="http://picodemo.fastkj.top/picture/img/djhawioqjbbc.png"><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(5).png"></p><h3 id="订阅源导入"><a href="#订阅源导入" class="headerlink" title="订阅源导入:"></a>订阅源导入:</h3><p><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(1).png"><img src="http://picodemo.fastkj.top/picture/img/%5B%7D%5DJU5Agg%20(4).png"></p><h3 id="更新添加订阅源"><a href="#更新添加订阅源" class="headerlink" title="更新添加订阅源:"></a>更新添加订阅源:</h3><p><img src="http://picodemo.fastkj.top/picture/img/jkdjfjkjdkv.png"><img src="http://picodemo.fastkj.top/picture/img/vskjhkjbvbs.png"></p><h3 id="测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）"><a href="#测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）" class="headerlink" title="测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）"></a>测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）<img src="http://picodemo.fastkj.top/picture/img/image.png"></h3><h3 id="右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"><a href="#右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）" class="headerlink" title="右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"></a>右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）</h3><p><img src="http://picodemo.fastkj.top/picture/img/hdhhmage.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 工具 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 代理工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>新版v2rayn PC安装 导入订阅教程</title>
-      <link href="/articles/v2rayn%20PC/"/>
-      <url>/articles/v2rayn%20PC/</url>
       
         <content type="html"><![CDATA[<h3 id="Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具"><a href="#Clash虽然好用但偶尔会抽一下-不知道是系统还是节点的问题-v2rayn操作相对麻烦一点可以当备用工具" class="headerlink" title="Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具"></a>Clash虽然好用但偶尔会抽一下 不知道是系统还是节点的问题 v2rayn操作相对麻烦一点可以当备用工具</h3><p>关于导入写的算比较详细了包括 下载 安装 导入订阅 订阅刷新 Vmess类型节点添加<br>在开头说一下估计都没耐心看完整篇 安装完网速不跑建议看最后一张图</p><h3 id="1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases"><a href="#1、v2rayN-PC端仓库；https-github-com-2dust-v2rayN-releases" class="headerlink" title="1、v2rayN PC端仓库；https://github.com/2dust/v2rayN/releases"></a>1、v2rayN PC端仓库；<a href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases</a></h3><p>根据自己电脑系统下载相对应版本<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/UJKJKkhjckjzkj.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/5MZXEO.png"></p><h3 id="2、解压下载好的zip安装包并安装"><a href="#2、解压下载好的zip安装包并安装" class="headerlink" title="2、解压下载好的zip安装包并安装"></a>2、解压下载好的zip安装包并安装</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/A1F%60JW8.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/K65M%7B%5DT.png"></p><h3 id="3、关于节点导入"><a href="#3、关于节点导入" class="headerlink" title="3、关于节点导入:"></a>3、关于节点导入:</h3><p>如：Vmess的节点复制粘贴添加即可<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/djhawioqjbbc.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(5).png"></p><h3 id="订阅源导入"><a href="#订阅源导入" class="headerlink" title="订阅源导入:"></a>订阅源导入:</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(1).png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/%5B%7D%5DJU5Agg%20(4).png"></p><h3 id="更新添加订阅源"><a href="#更新添加订阅源" class="headerlink" title="更新添加订阅源:"></a>更新添加订阅源:</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/jkdjfjkjdkv.png"><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/vskjhkjbvbs.png"></p><h3 id="测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）"><a href="#测试节点-选择低延迟（节点切换-点击任意一行回车-即可切换）" class="headerlink" title="测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）"></a>测试节点 选择低延迟（节点切换 点击任意一行回车 即可切换）<img src="https://warm-dieffenbachia-f521a5.netlify.app/img/image.png"></h3><h3 id="右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"><a href="#右下角右键v2rayn图标-选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）" class="headerlink" title="右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）"></a>右下角右键v2rayn图标 选择自动配置代理（导入节点后网络无法加载基本都是这里没有设置）</h3><p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/hdhhmage.png"></p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
       
