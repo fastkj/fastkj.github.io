@@ -693,33 +693,6 @@
     
     
     <entry>
-      <title>Clash PC端 汉化补丁(安装导入教程)</title>
-      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/"/>
-      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程"><a href="#Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程" class="headerlink" title="Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程"></a>Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程</h3><p><img src="http://picodemo.fastkj.top/picture/cover/348289_192919.png"></p><p>昨天看到 Clash 汉化补丁更新了，顺便补个小白教程，新版 Clash 可以到 github 仓库下载，估计群里很多都还在用 0.19.8 这个版本，可到仓库根据需求自行更新。</p><h3 id="1、打开链接-根据自己系统下载相对应版本，安装（路径记住）"><a href="#1、打开链接-根据自己系统下载相对应版本，安装（路径记住）" class="headerlink" title="1、打开链接 根据自己系统下载相对应版本，安装（路径记住）"></a>1、打开链接 根据自己系统下载相对应版本，安装（路径记住）</h3><div class="note default simple"><p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p></div><p><img src="http://picodemo.fastkj.top/picture/img/1111111.png"></p><h3 id="2、打开-clash-文件夹-进入-resources-文件夹"><a href="#2、打开-clash-文件夹-进入-resources-文件夹" class="headerlink" title="2、打开 clash 文件夹&#x2F;进入 resources 文件夹"></a>2、打开 clash 文件夹&#x2F;进入 resources 文件夹</h3><p><img src="http://picodemo.fastkj.top/picture/img/11.png"></p><h3 id="3、下载汉化补丁，解压后将-app-asar-替换到文件夹里"><a href="#3、下载汉化补丁，解压后将-app-asar-替换到文件夹里" class="headerlink" title="3、下载汉化补丁，解压后将 app.asar 替换到文件夹里"></a>3、下载汉化补丁，解压后将 app.asar 替换到文件夹里</h3><div class="note default simple"><p>汉化补丁：<a href="https://wwd.lanzoul.com/b01vat1pi">https://wwd.lanzoul.com/b01vat1pi</a><br>密码：d6ep</p></div><p><img src="http://picodemo.fastkj.top/picture/img/1.png"></p><h3 id="4、汉化后效果"><a href="#4、汉化后效果" class="headerlink" title="4、汉化后效果"></a>4、汉化后效果</h3><p><img src="http://picodemo.fastkj.top/picture/img/1111.png"></p><h3 id="5、节点导入方式"><a href="#5、节点导入方式" class="headerlink" title="5、节点导入方式"></a>5、节点导入方式</h3><p><img src="http://picodemo.fastkj.top/picture/img/111.png"></p><h3 id="提示一下；如果导入节点后网速不跑，两种解决方案。"><a href="#提示一下；如果导入节点后网速不跑，两种解决方案。" class="headerlink" title="提示一下；如果导入节点后网速不跑，两种解决方案。"></a>提示一下；如果导入节点后网速不跑，两种解决方案。</h3><p>1、节点过期，更换节点。<br>2、以管理员身份运行 Clash。</p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 科学上网 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> PC端 </tag>
-            
-            <tag> Clash </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>GitHub＋PicGo 图床搭建教程 无限存储空间</title>
       <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/"/>
       <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/</url>
@@ -739,6 +712,33 @@
             <tag> 图床搭建 </tag>
             
             <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Clash PC端 汉化补丁(安装导入教程)</title>
+      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/"/>
+      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程"><a href="#Clash-PC-端-如何安装-替换汉化补丁-节点导入-简易教程" class="headerlink" title="Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程"></a>Clash PC 端 如何安装&#x2F;替换汉化补丁&#x2F;节点导入&#x2F;简易教程</h3><p><img src="http://picodemo.fastkj.top/picture/cover/348289_192919.png"></p><p>昨天看到 Clash 汉化补丁更新了，顺便补个小白教程，新版 Clash 可以到 github 仓库下载，估计群里很多都还在用 0.19.8 这个版本，可到仓库根据需求自行更新。</p><h3 id="1、打开链接-根据自己系统下载相对应版本，安装（路径记住）"><a href="#1、打开链接-根据自己系统下载相对应版本，安装（路径记住）" class="headerlink" title="1、打开链接 根据自己系统下载相对应版本，安装（路径记住）"></a>1、打开链接 根据自己系统下载相对应版本，安装（路径记住）</h3><div class="note default simple"><p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p></div><p><img src="http://picodemo.fastkj.top/picture/img/1111111.png"></p><h3 id="2、打开-clash-文件夹-进入-resources-文件夹"><a href="#2、打开-clash-文件夹-进入-resources-文件夹" class="headerlink" title="2、打开 clash 文件夹&#x2F;进入 resources 文件夹"></a>2、打开 clash 文件夹&#x2F;进入 resources 文件夹</h3><p><img src="http://picodemo.fastkj.top/picture/img/11.png"></p><h3 id="3、下载汉化补丁，解压后将-app-asar-替换到文件夹里"><a href="#3、下载汉化补丁，解压后将-app-asar-替换到文件夹里" class="headerlink" title="3、下载汉化补丁，解压后将 app.asar 替换到文件夹里"></a>3、下载汉化补丁，解压后将 app.asar 替换到文件夹里</h3><div class="note default simple"><p>汉化补丁：<a href="https://wwd.lanzoul.com/b01vat1pi">https://wwd.lanzoul.com/b01vat1pi</a><br>密码：d6ep</p></div><p><img src="http://picodemo.fastkj.top/picture/img/1.png"></p><h3 id="4、汉化后效果"><a href="#4、汉化后效果" class="headerlink" title="4、汉化后效果"></a>4、汉化后效果</h3><p><img src="http://picodemo.fastkj.top/picture/img/1111.png"></p><h3 id="5、节点导入方式"><a href="#5、节点导入方式" class="headerlink" title="5、节点导入方式"></a>5、节点导入方式</h3><p><img src="http://picodemo.fastkj.top/picture/img/111.png"></p><h3 id="提示一下；如果导入节点后网速不跑，两种解决方案。"><a href="#提示一下；如果导入节点后网速不跑，两种解决方案。" class="headerlink" title="提示一下；如果导入节点后网速不跑，两种解决方案。"></a>提示一下；如果导入节点后网速不跑，两种解决方案。</h3><p>1、节点过期，更换节点。<br>2、以管理员身份运行 Clash。</p><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PC端 </tag>
+            
+            <tag> Clash </tag>
             
         </tags>
       
