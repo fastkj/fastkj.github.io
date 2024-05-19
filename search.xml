@@ -81,6 +81,31 @@
     
     
     <entry>
+      <title>Twitter X 新版- 官方版本-提取合成</title>
+      <link href="/android/Twitter/"/>
+      <url>/android/Twitter/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716159900307.jpg"><br>X是一个全新的社交媒体平台，它曾经是Twitter推特的前身。经过品牌重新改名，它让用户可以快速获取和分享最新的新闻、趋势、观点和生活动态。无论你是关心体育、娱乐、科技还是其他话题，Twitter都能让你与世界保持紧密联系。</p><p>你可以关注感兴趣的人、媒体和名人，获取他们的动态和观点。你可以通过阅读推文、观看视频、查看图片和链接等方式，了解他们的最新动向和见解。同时，你也可以与他们互动，通过点赞、评论、转发等方式表达你的观点和意见。</p><p>|<img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716159924614.jpg">|<img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716159900310.jpg">|![](<a href="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716159915087.jpg">https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716159915087.jpg</a></p><p>)|<br>|:-:|:-:|:-:|</p><p>X还提供了各种话题标签和趋势标签，让你能够快速浏览和参与热门话题的讨论。你可以通过搜索特定的标签或关键词，找到与你感兴趣的话题相关的推文和讨论，与其他用户一起交流和分享观点。</p><ul><li>关于登录 仅提供方案<br>1、无法登录或弹出已下弹窗：将IP切成美区<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716160206825.jpg"><br>2、新注册账号提供的随机建议将ID进行更改，随机短期不登录会被官方收回。<br>目前用户名登录是百分百可以登录成功的，谷歌账号和手机号登录有一定的地区限制。<br><img src="https://warm-dieffenbachia-f521a5.netlify.app/img/2024/1716160206826.jpg"><br>3、如果无法找到ID或无法登录，可以卸载先X，不卸载打开官网会直接跳转APP。使用谷歌浏览器通过x.com官网登录查找用户名ID，安装APP通过ID进行登录。</li><li>下载地址：<a href="https://pan.quark.cn/s/b8f5568657b1">点击链接</a>提取码：C641</li><li>下载地址：<a href="https://wwr.lanzoui.com/b01vglp2h">点击链接</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安卓 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Twitter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PiliPala 开源应用 Bilibili 第三方客户端</title>
       <link href="/android/PiliPala/"/>
       <url>/android/PiliPala/</url>
@@ -693,33 +718,6 @@
     
     
     <entry>
-      <title>GitHub＋PicGo 图床搭建教程 无限存储空间</title>
-      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/"/>
-      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/</url>
-      
-        <content type="html"><![CDATA[<h3 id="GitHub-＋-PicGo-图床搭建教程-无限存储空间"><a href="#GitHub-＋-PicGo-图床搭建教程-无限存储空间" class="headerlink" title="GitHub ＋ PicGo 图床搭建教程 无限存储空间"></a>GitHub ＋ PicGo 图床搭建教程 无限存储空间</h3><p><img src="http://picodemo.fastkj.top/picture/img/27.jpg"></p><p>因为需要备份大量的图片，但市面上很多免费的图床都有限制，国内第三方图床配置应用都需要会员，所以比较推荐 GitHub ＋ PicGo 配置图床,平时用的都是 PC 端 PicGo，最近发现 PicGo 有安卓版，写一个配置教程。</p><p>优点：无限存储空间、秒上传下载、自定义图床链接</p><h3 id="1、创建-GitHub-图床仓库"><a href="#1、创建-GitHub-图床仓库" class="headerlink" title="1、创建 GitHub 图床仓库"></a>1、创建 GitHub 图床仓库</h3><p>首先需要有一个登录 GitHub 的账号，没有的话去官网注册一个 <a href="https://github.com/">https://github.com/</a></p><p>创建一个新的图床仓库</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/28.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/29.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/30.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="2、获取-GitHub-token-值"><a href="#2、获取-GitHub-token-值" class="headerlink" title="2、获取 GitHub token 值"></a>2、获取 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/31.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/32.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/33.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="3、复制-GitHub-token-值"><a href="#3、复制-GitHub-token-值" class="headerlink" title="3、复制 GitHub token 值"></a>3、复制 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/34.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/35.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/36.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="4、下载配置-PicGo"><a href="#4、下载配置-PicGo" class="headerlink" title="4、下载配置 PicGo"></a>4、下载配置 PicGo</h3><p>开源项目就不搬运了自行到仓库下载</p><p>Flutter-PicGo 仓库：<a href="https://github.com/PicGo/flutter-picgo/releases">https://github.com/PicGo/flutter-picgo/releases</a></p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/37.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/38.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/39.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="配置方式"><a href="#配置方式" class="headerlink" title="配置方式"></a>配置方式</h3><ol><li><p>设定分支名 (必填)：<br>仓库分支名填写”master” 或者”main”</p></li><li><p>自定义域名(可填镜像源提升上传速度)：<br>镜像源：<a href="https://cdn.jsdelivr.net/gh/%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/仓库名</a></p></li><li><p>指定存储路径：<br>这个选项可以为空，如果想将图片上传到仓库的指定目录下，可以填写 img&#x2F;</p></li><li><p>按照 “GitHub 账户名 &#x2F; 仓库名的格式填写”，比如我的是：Fast&#x2F;picture</p></li><li><p>设定 Token (必填)：<br>将之前步骤的 Token 值复制粘贴到这里</p></li></ol><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 谷歌 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 图床搭建 </tag>
-            
-            <tag> GitHub </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Clash PC端 汉化补丁(安装导入教程)</title>
       <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/"/>
       <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/PC%E7%AB%AFclash/</url>
@@ -739,6 +737,33 @@
             <tag> PC端 </tag>
             
             <tag> Clash </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GitHub＋PicGo 图床搭建教程 无限存储空间</title>
+      <link href="/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/"/>
+      <url>/PC%E7%AB%AF%E6%95%99%E7%A8%8B/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E5%AE%89%E5%8D%93/</url>
+      
+        <content type="html"><![CDATA[<h3 id="GitHub-＋-PicGo-图床搭建教程-无限存储空间"><a href="#GitHub-＋-PicGo-图床搭建教程-无限存储空间" class="headerlink" title="GitHub ＋ PicGo 图床搭建教程 无限存储空间"></a>GitHub ＋ PicGo 图床搭建教程 无限存储空间</h3><p><img src="http://picodemo.fastkj.top/picture/img/27.jpg"></p><p>因为需要备份大量的图片，但市面上很多免费的图床都有限制，国内第三方图床配置应用都需要会员，所以比较推荐 GitHub ＋ PicGo 配置图床,平时用的都是 PC 端 PicGo，最近发现 PicGo 有安卓版，写一个配置教程。</p><p>优点：无限存储空间、秒上传下载、自定义图床链接</p><h3 id="1、创建-GitHub-图床仓库"><a href="#1、创建-GitHub-图床仓库" class="headerlink" title="1、创建 GitHub 图床仓库"></a>1、创建 GitHub 图床仓库</h3><p>首先需要有一个登录 GitHub 的账号，没有的话去官网注册一个 <a href="https://github.com/">https://github.com/</a></p><p>创建一个新的图床仓库</p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/28.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/29.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/30.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="2、获取-GitHub-token-值"><a href="#2、获取-GitHub-token-值" class="headerlink" title="2、获取 GitHub token 值"></a>2、获取 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/31.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/32.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/33.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="3、复制-GitHub-token-值"><a href="#3、复制-GitHub-token-值" class="headerlink" title="3、复制 GitHub token 值"></a>3、复制 GitHub token 值</h3><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/34.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/35.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/36.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="4、下载配置-PicGo"><a href="#4、下载配置-PicGo" class="headerlink" title="4、下载配置 PicGo"></a>4、下载配置 PicGo</h3><p>开源项目就不搬运了自行到仓库下载</p><p>Flutter-PicGo 仓库：<a href="https://github.com/PicGo/flutter-picgo/releases">https://github.com/PicGo/flutter-picgo/releases</a></p><div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://picodemo.fastkj.top/picture/img/37.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/38.jpg","alt":""},{"url":"http://picodemo.fastkj.top/picture/img/39.jpg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><h3 id="配置方式"><a href="#配置方式" class="headerlink" title="配置方式"></a>配置方式</h3><ol><li><p>设定分支名 (必填)：<br>仓库分支名填写”master” 或者”main”</p></li><li><p>自定义域名(可填镜像源提升上传速度)：<br>镜像源：<a href="https://cdn.jsdelivr.net/gh/%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/仓库名</a></p></li><li><p>指定存储路径：<br>这个选项可以为空，如果想将图片上传到仓库的指定目录下，可以填写 img&#x2F;</p></li><li><p>按照 “GitHub 账户名 &#x2F; 仓库名的格式填写”，比如我的是：Fast&#x2F;picture</p></li><li><p>设定 Token (必填)：<br>将之前步骤的 Token 值复制粘贴到这里</p></li></ol><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 谷歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床搭建 </tag>
+            
+            <tag> GitHub </tag>
             
         </tags>
       
